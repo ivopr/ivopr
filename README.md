@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou O Ivo</h1> <img src="hi.gif" width="30px">
+<h1 align="center">Olá, eu sou O Ivo <img src="hi.gif" width="30px"></h1>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=demotional" alt="Profile Views" />
