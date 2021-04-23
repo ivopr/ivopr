@@ -4,7 +4,7 @@
 - Não tenho muito o que falar sobre mim por enquanto, mas assim que tiver, com certeza vai aparecer aqui :)
 - Se por algum motivo precisar falar comigo, me mande um [email](mailto://ivoprovensi1@gmail.com)
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivopr&layout=compact&theme=react" /> 
 </p>
   
