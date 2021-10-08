@@ -1,10 +1,30 @@
-<h1 align="center">Olá, eu sou O Ivo <img src="hi.gif" width="30px"></h1>
+### Hi, I'm Ivo 👋
 
-- Possuo interesse em tudo relacionado à desenvolvimento web
-- Não tenho muito o que falar sobre mim por enquanto, mas assim que tiver, com certeza vai aparecer aqui :)
-- Se por algum motivo precisar falar comigo, me mande um [email](mailto://ivoprovensi1@gmail.com)
+* Web passionate student
+* CS student
+* TypeScript driven
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivopr&layout=compact&theme=react" /> 
-</p>
-  
+#### 👷 Check out what I'm currently working on
+
+- [ivopr/aurora](https://github.com/ivopr/aurora) -  (2 weeks ago)
+- [ivopr/cat-chat](https://github.com/ivopr/cat-chat) -  (3 weeks ago)
+- [ivopr/pdm](https://github.com/ivopr/pdm) - Códigos de Programação para DIspositivos Móveis 2020.2 (2021.1/2) (1 month ago)
+
+#### 🌱 My latest projects
+
+- [ivopr/aurora](https://github.com/ivopr/aurora) - 
+- [ivopr/cat-chat](https://github.com/ivopr/cat-chat) - 
+- [ivopr/roshamuul](https://github.com/ivopr/roshamuul) - 
+
+#### ⭐️ Latest starred repos
+
+- [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js (1 week ago)
+- [otland/forgottenserver](https://github.com/otland/forgottenserver) - A free and open-source MMORPG server emulator written in C&#43;&#43; (3 weeks ago)
+- [vegardit/prisma-generator-nestjs-dto](https://github.com/vegardit/prisma-generator-nestjs-dto) - Generates NestJS DTO classes from Prisma Schema (3 weeks ago)
+
+#### 📫 How to reach me
+
+- Email: [ivoprovensi1@gmail.com](mailto://ivoprovensi1@gmail.com)
+- Telegram: https://t.me/ivopr
+
+Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
