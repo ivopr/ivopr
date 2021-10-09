@@ -14,7 +14,7 @@
 
 - [ivopr/aurora](https://github.com/ivopr/aurora) - 
 - [ivopr/cat-chat](https://github.com/ivopr/cat-chat) - 
-- [ivopr/roshamuul](https://github.com/ivopr/roshamuul) - 
+- [ivopr/eip-gpra](https://github.com/ivopr/eip-gpra) - 
 
 #### ⭐️ Latest starred repos
 
