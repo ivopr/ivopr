@@ -7,7 +7,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [ivopr/aurora](https://github.com/ivopr/aurora) -  (2 weeks ago)
-- [ivopr/cat-chat](https://github.com/ivopr/cat-chat) -  (4 weeks ago)
+- [ivopr/cat-chat](https://github.com/ivopr/cat-chat) -  (1 month ago)
 - [ivopr/pdm](https://github.com/ivopr/pdm) - Códigos de Programação para DIspositivos Móveis 2020.2 (2021.1/2) (1 month ago)
 
 #### 🌱 My latest projects
@@ -18,9 +18,9 @@
 
 #### ⭐️ Latest starred repos
 
-- [heavenly-cat/rpg](https://github.com/heavenly-cat/rpg) -  (1 day ago)
-- [valhalla/valhalla](https://github.com/valhalla/valhalla) - Open Source Routing Engine for OpenStreetMap (1 day ago)
-- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser. (1 day ago)
+- [heavenly-cat/rpg](https://github.com/heavenly-cat/rpg) -  (2 days ago)
+- [valhalla/valhalla](https://github.com/valhalla/valhalla) - Open Source Routing Engine for OpenStreetMap (2 days ago)
+- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser. (2 days ago)
 
 #### 📫 How to reach me
 
