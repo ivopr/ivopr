@@ -18,9 +18,9 @@
 
 #### ⭐️ Latest starred repos
 
-- [heavenly-cat/rpg](https://github.com/heavenly-cat/rpg) -  (2 days ago)
-- [valhalla/valhalla](https://github.com/valhalla/valhalla) - Open Source Routing Engine for OpenStreetMap (2 days ago)
-- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser. (2 days ago)
+- [heavenly-cat/rpg](https://github.com/heavenly-cat/rpg) -  (3 days ago)
+- [valhalla/valhalla](https://github.com/valhalla/valhalla) - Open Source Routing Engine for OpenStreetMap (3 days ago)
+- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser. (3 days ago)
 
 #### 📫 How to reach me
 
