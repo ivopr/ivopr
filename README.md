@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ivopr/aurora](https://github.com/ivopr/aurora) -  (3 weeks ago)
+- [ivopr/aurora](https://github.com/ivopr/aurora) -  (4 weeks ago)
 - [ivopr/cat-chat](https://github.com/ivopr/cat-chat) -  (1 month ago)
 - [ivopr/pdm](https://github.com/ivopr/pdm) - Códigos de Programação para DIspositivos Móveis 2020.2 (2021.1/2) (1 month ago)
 
