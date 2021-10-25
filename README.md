@@ -18,7 +18,7 @@
 
 #### ⭐️ Latest starred repos
 
-- [philipcass/uClicker](https://github.com/philipcass/uClicker) - A Unity Clicker Library (2 days ago)
+- [philipcass/uClicker](https://github.com/philipcass/uClicker) - A Unity Clicker Library (3 days ago)
 - [heavenly-cat/rpg](https://github.com/heavenly-cat/rpg) -  (2 weeks ago)
 - [valhalla/valhalla](https://github.com/valhalla/valhalla) - Open Source Routing Engine for OpenStreetMap (2 weeks ago)
 
