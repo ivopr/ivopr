@@ -6,15 +6,15 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [ivopr/rpg](https://github.com/ivopr/rpg) -  (today)
 - [ivopr/aurora](https://github.com/ivopr/aurora) -  (1 month ago)
 - [ivopr/cat-chat](https://github.com/ivopr/cat-chat) -  (1 month ago)
-- [ivopr/pdm](https://github.com/ivopr/pdm) - Códigos de Programação para DIspositivos Móveis 2020.2 (2021.1/2) (1 month ago)
 
 #### 🌱 My latest projects
 
+- [ivopr/rpg](https://github.com/ivopr/rpg) - 
 - [ivopr/aurora](https://github.com/ivopr/aurora) - 
 - [ivopr/cat-chat](https://github.com/ivopr/cat-chat) - 
-- [ivopr/eip-gpra](https://github.com/ivopr/eip-gpra) - 
 
 #### ⭐️ Latest starred repos
 
