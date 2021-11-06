@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ivopr/rpg](https://github.com/ivopr/rpg) -  (6 days ago)
+- [ivopr/rpg](https://github.com/ivopr/rpg) -  (1 week ago)
 - [ivopr/aurora](https://github.com/ivopr/aurora) -  (1 month ago)
 - [ivopr/cat-chat](https://github.com/ivopr/cat-chat) -  (1 month ago)
 
