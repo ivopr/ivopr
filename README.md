@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ivopr/rpg](https://github.com/ivopr/rpg) -  (1 day ago)
+- [ivopr/rpg](https://github.com/ivopr/rpg) -  (2 days ago)
 - [ivopr/aurora](https://github.com/ivopr/aurora) -  (1 month ago)
 - [ivopr/cat-chat](https://github.com/ivopr/cat-chat) -  (2 months ago)
 
@@ -18,7 +18,7 @@
 
 #### ⭐️ Latest starred repos
 
-- [philipcass/uClicker](https://github.com/philipcass/uClicker) - A Unity Clicker Library (2 weeks ago)
+- [philipcass/uClicker](https://github.com/philipcass/uClicker) - A Unity Clicker Library (3 weeks ago)
 - [heavenly-cat/rpg](https://github.com/heavenly-cat/rpg) -  (1 month ago)
 - [valhalla/valhalla](https://github.com/valhalla/valhalla) - Open Source Routing Engine for OpenStreetMap (1 month ago)
 
