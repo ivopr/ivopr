@@ -6,15 +6,15 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [ivopr/cg](https://github.com/ivopr/cg) - Códigos da matéria de Computação Gráfica 2021.1 (today)
 - [ivopr/rpg](https://github.com/ivopr/rpg) -  (1 week ago)
 - [ivopr/aurora](https://github.com/ivopr/aurora) -  (1 month ago)
-- [ivopr/cat-chat](https://github.com/ivopr/cat-chat) -  (2 months ago)
 
 #### 🌱 My latest projects
 
+- [ivopr/cg](https://github.com/ivopr/cg) - Códigos da matéria de Computação Gráfica 2021.1
 - [ivopr/rpg](https://github.com/ivopr/rpg) - 
 - [ivopr/aurora](https://github.com/ivopr/aurora) - 
-- [ivopr/cat-chat](https://github.com/ivopr/cat-chat) - 
 
 #### ⭐️ Latest starred repos
 
