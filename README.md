@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ivopr/cg](https://github.com/ivopr/cg) - Códigos da matéria de Computação Gráfica 2021.1 (1 day ago)
+- [ivopr/cg](https://github.com/ivopr/cg) - Códigos da matéria de Computação Gráfica 2021.1 (2 days ago)
 - [ivopr/rpg](https://github.com/ivopr/rpg) -  (1 week ago)
 - [ivopr/aurora](https://github.com/ivopr/aurora) -  (1 month ago)
 
