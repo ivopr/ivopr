@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ivopr/cg](https://github.com/ivopr/cg) - Códigos da matéria de Computação Gráfica 2021.1 (2 days ago)
+- [ivopr/cg](https://github.com/ivopr/cg) - Códigos da matéria de Computação Gráfica 2021.1 (3 days ago)
 - [ivopr/rpg](https://github.com/ivopr/rpg) -  (1 week ago)
 - [ivopr/aurora](https://github.com/ivopr/aurora) -  (1 month ago)
 
@@ -18,7 +18,7 @@
 
 #### ⭐️ Latest starred repos
 
-- [philipcass/uClicker](https://github.com/philipcass/uClicker) - A Unity Clicker Library (4 weeks ago)
+- [philipcass/uClicker](https://github.com/philipcass/uClicker) - A Unity Clicker Library (1 month ago)
 - [heavenly-cat/rpg](https://github.com/heavenly-cat/rpg) -  (1 month ago)
 - [valhalla/valhalla](https://github.com/valhalla/valhalla) - Open Source Routing Engine for OpenStreetMap (1 month ago)
 
