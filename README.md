@@ -27,6 +27,6 @@
 - Email: [ivoprovensi1@gmail.com](mailto://ivoprovensi1@gmail.com)
 - Telegram: https://t.me/ivopr
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloFuza&layout=compact&theme=react)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ivopr&layout=compact&theme=react)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
