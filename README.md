@@ -8,7 +8,7 @@
 
 - [ivopr/idwstore](https://github.com/ivopr/idwstore) - Trabalho final da matéria de Introdução ao Desenvolvimento Web (1 week ago)
 - [ivopr/cg](https://github.com/ivopr/cg) - Códigos da matéria de Computação Gráfica 2021.1 (1 week ago)
-- [ivopr/rpg](https://github.com/ivopr/rpg) -  (3 weeks ago)
+- [ivopr/rpg](https://github.com/ivopr/rpg) -  (4 weeks ago)
 
 #### 🌱 My latest projects
 
