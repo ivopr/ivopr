@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ivopr/idwstore](https://github.com/ivopr/idwstore) - Trabalho final da matéria de Introdução ao Desenvolvimento Web (1 week ago)
-- [ivopr/cg](https://github.com/ivopr/cg) - Códigos da matéria de Computação Gráfica 2021.1 (1 week ago)
+- [ivopr/idwstore](https://github.com/ivopr/idwstore) - Trabalho final da matéria de Introdução ao Desenvolvimento Web (2 weeks ago)
+- [ivopr/cg](https://github.com/ivopr/cg) - Códigos da matéria de Computação Gráfica 2021.1 (2 weeks ago)
 - [ivopr/rpg](https://github.com/ivopr/rpg) -  (1 month ago)
 
 #### 🌱 My latest projects
