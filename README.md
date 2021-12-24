@@ -6,15 +6,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ivopr/ignite-img-upload](https://github.com/ivopr/ignite-img-upload) -  (2 days ago)
+- [ivopr/ignite-otimizando-a-aplicacao](https://github.com/ivopr/ignite-otimizando-a-aplicacao) -  (1 day ago)
+- [ivopr/ignite-img-upload](https://github.com/ivopr/ignite-img-upload) -  (3 days ago)
 - [ivopr/idwstore](https://github.com/ivopr/idwstore) - Trabalho final da matéria de Introdução ao Desenvolvimento Web (3 weeks ago)
-- [ivopr/cg](https://github.com/ivopr/cg) - Códigos da matéria de Computação Gráfica 2021.1 (3 weeks ago)
 
 #### 🌱 My latest projects
 
+- [ivopr/ignite-otimizando-a-aplicacao](https://github.com/ivopr/ignite-otimizando-a-aplicacao) - 
 - [ivopr/ignite-img-upload](https://github.com/ivopr/ignite-img-upload) - 
 - [ivopr/cg](https://github.com/ivopr/cg) - Códigos da matéria de Computação Gráfica 2021.1
-- [ivopr/idwstore](https://github.com/ivopr/idwstore) - Trabalho final da matéria de Introdução ao Desenvolvimento Web
 
 #### ⭐️ Latest starred repos
 
