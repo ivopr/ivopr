@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ivopr/cg](https://github.com/ivopr/cg) - Códigos da matéria de Computação Gráfica 2021.1 (1 week ago)
+- [ivopr/cg](https://github.com/ivopr/cg) - Códigos da matéria de Computação Gráfica 2021.1 (2 weeks ago)
 - [ivopr/ignite-otimizando-a-aplicacao](https://github.com/ivopr/ignite-otimizando-a-aplicacao) -  (2 weeks ago)
-- [ivopr/ignite-img-upload](https://github.com/ivopr/ignite-img-upload) -  (2 weeks ago)
+- [ivopr/ignite-img-upload](https://github.com/ivopr/ignite-img-upload) -  (3 weeks ago)
 
 #### 🌱 My latest projects
 
