@@ -7,7 +7,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [ivopr/cg](https://github.com/ivopr/cg) - Códigos da matéria de Computação Gráfica 2021.1 (2 weeks ago)
-- [ivopr/ignite-otimizando-a-aplicacao](https://github.com/ivopr/ignite-otimizando-a-aplicacao) -  (2 weeks ago)
+- [ivopr/ignite-otimizando-a-aplicacao](https://github.com/ivopr/ignite-otimizando-a-aplicacao) -  (3 weeks ago)
 - [ivopr/ignite-img-upload](https://github.com/ivopr/ignite-img-upload) -  (3 weeks ago)
 
 #### 🌱 My latest projects
@@ -18,9 +18,9 @@
 
 #### ⭐️ Latest starred repos
 
+- [yarnpkg/berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒ (1 day ago)
 - [philipcass/uClicker](https://github.com/philipcass/uClicker) - A Unity Clicker Library (2 months ago)
 - [valhalla/valhalla](https://github.com/valhalla/valhalla) - Open Source Routing Engine for OpenStreetMap (3 months ago)
-- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser. (3 months ago)
 
 #### 📫 How to reach me
 
