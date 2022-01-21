@@ -6,15 +6,15 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [ivopr/likeavillain](https://github.com/ivopr/likeavillain) -  (today)
 - [ivopr/idw](https://github.com/ivopr/idw) - Códigos desenvolvidos durante a matéria de Introdução ao Desenvolvimento Web (1 week ago)
 - [ivopr/cg](https://github.com/ivopr/cg) - Códigos da matéria de Computação Gráfica 2021.1 (3 weeks ago)
-- [ivopr/ignite-otimizando-a-aplicacao](https://github.com/ivopr/ignite-otimizando-a-aplicacao) -  (4 weeks ago)
 
 #### 🌱 My latest projects
 
+- [ivopr/likeavillain](https://github.com/ivopr/likeavillain) - 
 - [ivopr/idw](https://github.com/ivopr/idw) - Códigos desenvolvidos durante a matéria de Introdução ao Desenvolvimento Web
 - [ivopr/ignite-otimizando-a-aplicacao](https://github.com/ivopr/ignite-otimizando-a-aplicacao) - 
-- [ivopr/ignite-img-upload](https://github.com/ivopr/ignite-img-upload) - 
 
 #### ⭐️ Latest starred repos
 
