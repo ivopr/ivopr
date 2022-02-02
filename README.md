@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ivopr/opengl-final-cg](https://github.com/ivopr/opengl-final-cg) -  (1 day ago)
-- [ivopr/cg](https://github.com/ivopr/cg) - Códigos da matéria de Computação Gráfica 2021.1 (1 day ago)
-- [ivopr/idw](https://github.com/ivopr/idw) - Códigos desenvolvidos durante a matéria de Introdução ao Desenvolvimento Web (1 day ago)
+- [ivopr/opengl-final-cg](https://github.com/ivopr/opengl-final-cg) -  (2 days ago)
+- [ivopr/cg](https://github.com/ivopr/cg) - Códigos da matéria de Computação Gráfica 2021.1 (2 days ago)
+- [ivopr/idw](https://github.com/ivopr/idw) - Códigos desenvolvidos durante a matéria de Introdução ao Desenvolvimento Web (2 days ago)
 
 #### 🌱 My latest projects
 
