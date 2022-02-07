@@ -26,4 +26,6 @@ jobs:
         with:
           commit_message: Update generated README
           branch: main
-          commit_user_name: github-actions
+          commit_user_name: ivopr
+          commit_user_email: ivoprovensi1@gmail.com
+          commit_author: ivopr <ivoprovensi1@gmail.com>
