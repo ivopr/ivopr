@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ivopr/finalcg](https://github.com/ivopr/finalcg) -  (4 days ago)
+- [ivopr/finalcg](https://github.com/ivopr/finalcg) -  (5 days ago)
 - [ivopr/idw](https://github.com/ivopr/idw) - Códigos desenvolvidos durante a matéria de Introdução ao Desenvolvimento Web (1 week ago)
 - [ivopr/cg](https://github.com/ivopr/cg) - Códigos da matéria de Computação Gráfica 2021.1 (1 week ago)
 
@@ -18,7 +18,7 @@
 
 #### ⭐️ Latest starred repos
 
-- [yarnpkg/berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒ (4 weeks ago)
+- [yarnpkg/berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒ (1 month ago)
 - [philipcass/uClicker](https://github.com/philipcass/uClicker) - A Unity Clicker Library (3 months ago)
 - [valhalla/valhalla](https://github.com/valhalla/valhalla) - Open Source Routing Engine for OpenStreetMap (4 months ago)
 
