@@ -6,15 +6,15 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [ivopr/sword](https://github.com/ivopr/sword) -  (today)
 - [ivopr/idw](https://github.com/ivopr/idw) - Códigos desenvolvidos durante a matéria de Introdução ao Desenvolvimento Web (5 days ago)
 - [ivopr/finalcg](https://github.com/ivopr/finalcg) -  (1 week ago)
-- [ivopr/cg](https://github.com/ivopr/cg) - Códigos da matéria de Computação Gráfica 2021.1 (2 weeks ago)
 
 #### 🌱 My latest projects
 
+- [ivopr/sword](https://github.com/ivopr/sword) - 
 - [ivopr/finalcg](https://github.com/ivopr/finalcg) - 
 - [ivopr/likeavillain](https://github.com/ivopr/likeavillain) - 
-- [ivopr/idw](https://github.com/ivopr/idw) - Códigos desenvolvidos durante a matéria de Introdução ao Desenvolvimento Web
 
 #### ⭐️ Latest starred repos
 
