@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ivopr/sword](https://github.com/ivopr/sword) -  (today)
-- [ivopr/idw](https://github.com/ivopr/idw) - Códigos desenvolvidos durante a matéria de Introdução ao Desenvolvimento Web (5 days ago)
+- [ivopr/sword](https://github.com/ivopr/sword) -  (1 day ago)
+- [ivopr/idw](https://github.com/ivopr/idw) - Códigos desenvolvidos durante a matéria de Introdução ao Desenvolvimento Web (6 days ago)
 - [ivopr/finalcg](https://github.com/ivopr/finalcg) -  (1 week ago)
 
 #### 🌱 My latest projects
@@ -18,7 +18,7 @@
 
 #### ⭐️ Latest starred repos
 
-- [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web. (3 days ago)
+- [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web. (4 days ago)
 - [yarnpkg/berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒ (1 month ago)
 - [philipcass/uClicker](https://github.com/philipcass/uClicker) - A Unity Clicker Library (4 months ago)
 
