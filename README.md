@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ivopr/sword](https://github.com/ivopr/sword) -  (1 day ago)
+- [ivopr/sword](https://github.com/ivopr/sword) -  (today)
 - [ivopr/idw](https://github.com/ivopr/idw) - Códigos desenvolvidos durante a matéria de Introdução ao Desenvolvimento Web (6 days ago)
 - [ivopr/finalcg](https://github.com/ivopr/finalcg) -  (1 week ago)
 
