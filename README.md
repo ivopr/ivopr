@@ -18,9 +18,9 @@
 
 #### ⭐️ Latest starred repos
 
+- [ivopr/sword](https://github.com/ivopr/sword) - A Next.js tibia account manager (today)
 - [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web. (6 days ago)
 - [yarnpkg/berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒ (1 month ago)
-- [philipcass/uClicker](https://github.com/philipcass/uClicker) - A Unity Clicker Library (4 months ago)
 
 #### 📫 How to reach me
 
