@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ivopr/sword](https://github.com/ivopr/sword) - A Next.js tibia account manager (1 day ago)
+- [ivopr/sword](https://github.com/ivopr/sword) - A Next.js tibia account manager (2 days ago)
 - [ivopr/idw](https://github.com/ivopr/idw) - Códigos desenvolvidos durante a matéria de Introdução ao Desenvolvimento Web (1 week ago)
 - [ivopr/finalcg](https://github.com/ivopr/finalcg) -  (2 weeks ago)
 
@@ -18,7 +18,7 @@
 
 #### ⭐️ Latest starred repos
 
-- [ivopr/sword](https://github.com/ivopr/sword) - A Next.js tibia account manager (1 day ago)
+- [ivopr/sword](https://github.com/ivopr/sword) - A Next.js tibia account manager (2 days ago)
 - [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web. (1 week ago)
 - [yarnpkg/berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒ (1 month ago)
 
