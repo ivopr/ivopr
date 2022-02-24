@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ivopr/sword](https://github.com/ivopr/sword) - A Next.js tibia account manager (2 days ago)
+- [ivopr/sword](https://github.com/ivopr/sword) - A Next.js tibia account manager (1 day ago)
 - [ivopr/idw](https://github.com/ivopr/idw) - Códigos desenvolvidos durante a matéria de Introdução ao Desenvolvimento Web (1 week ago)
 - [ivopr/finalcg](https://github.com/ivopr/finalcg) -  (2 weeks ago)
 
