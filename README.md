@@ -18,9 +18,9 @@
 
 #### ⭐️ Latest starred repos
 
+- [mattyx14/otxserver](https://github.com/mattyx14/otxserver) - OTX Server from: (today)
 - [ivopr/sword](https://github.com/ivopr/sword) - A Next.js tibia account manager (2 days ago)
 - [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web. (1 week ago)
-- [yarnpkg/berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒ (1 month ago)
 
 #### 📫 How to reach me
 
