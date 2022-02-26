@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ivopr/sword](https://github.com/ivopr/sword) - A Next.js tibia account manager (today)
+- [ivopr/sword](https://github.com/ivopr/sword) - A Next.js tibia account manager (1 day ago)
 - [ivopr/idw](https://github.com/ivopr/idw) - Códigos desenvolvidos durante a matéria de Introdução ao Desenvolvimento Web (1 week ago)
 - [ivopr/finalcg](https://github.com/ivopr/finalcg) -  (2 weeks ago)
 
@@ -18,8 +18,8 @@
 
 #### ⭐️ Latest starred repos
 
-- [mattyx14/otxserver](https://github.com/mattyx14/otxserver) - OTX Server from: (1 day ago)
-- [ivopr/sword](https://github.com/ivopr/sword) - A Next.js tibia account manager (3 days ago)
+- [mattyx14/otxserver](https://github.com/mattyx14/otxserver) - OTX Server from: (2 days ago)
+- [ivopr/sword](https://github.com/ivopr/sword) - A Next.js tibia account manager (4 days ago)
 - [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web. (1 week ago)
 
 #### 📫 How to reach me
