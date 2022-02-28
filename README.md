@@ -6,13 +6,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ivopr/sword](https://github.com/ivopr/sword) - A Next.js tibia account manager (3 days ago)
-- [ivopr/idw](https://github.com/ivopr/idw) - Códigos desenvolvidos durante a matéria de Introdução ao Desenvolvimento Web (2 weeks ago)
+- [ivopr/mantis](https://github.com/ivopr/mantis) - A Next.js tibia account manager (today)
+- [ivopr/idw](https://github.com/ivopr/idw) - Códigos desenvolvidos durante a matéria de Introdução ao Desenvolvimento Web (today)
 - [ivopr/finalcg](https://github.com/ivopr/finalcg) -  (3 weeks ago)
 
 #### 🌱 My latest projects
 
-- [ivopr/sword](https://github.com/ivopr/sword) - A Next.js tibia account manager
+- [ivopr/mantis](https://github.com/ivopr/mantis) - A Next.js tibia account manager
 - [ivopr/finalcg](https://github.com/ivopr/finalcg) - 
 - [ivopr/likeavillain](https://github.com/ivopr/likeavillain) - 
 
@@ -20,7 +20,7 @@
 
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install. (today)
 - [mattyx14/otxserver](https://github.com/mattyx14/otxserver) - OTX Server from: (4 days ago)
-- [ivopr/sword](https://github.com/ivopr/sword) - A Next.js tibia account manager (6 days ago)
+- [ivopr/mantis](https://github.com/ivopr/mantis) - A Next.js tibia account manager (6 days ago)
 
 #### 📫 How to reach me
 
