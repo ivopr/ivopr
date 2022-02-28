@@ -18,9 +18,9 @@
 
 #### ⭐️ Latest starred repos
 
+- [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install. (today)
 - [mattyx14/otxserver](https://github.com/mattyx14/otxserver) - OTX Server from: (4 days ago)
 - [ivopr/sword](https://github.com/ivopr/sword) - A Next.js tibia account manager (6 days ago)
-- [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web. (1 week ago)
 
 #### 📫 How to reach me
 
