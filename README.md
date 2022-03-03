@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ivopr/mantis](https://github.com/ivopr/mantis) - A Next.js tibia account manager (2 days ago)
-- [ivopr/idw](https://github.com/ivopr/idw) - Códigos desenvolvidos durante a matéria de Introdução ao Desenvolvimento Web (2 days ago)
+- [ivopr/mantis](https://github.com/ivopr/mantis) - A Next.js tibia account manager (3 days ago)
+- [ivopr/idw](https://github.com/ivopr/idw) - Códigos desenvolvidos durante a matéria de Introdução ao Desenvolvimento Web (3 days ago)
 - [ivopr/finalcg](https://github.com/ivopr/finalcg) -  (3 weeks ago)
 
 #### 🌱 My latest projects
@@ -18,9 +18,9 @@
 
 #### ⭐️ Latest starred repos
 
-- [sileshn/ManjaroWSL](https://github.com/sileshn/ManjaroWSL) - Manjaro for WSL2 using wsldl (2 days ago)
-- [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install. (2 days ago)
-- [mattyx14/otxserver](https://github.com/mattyx14/otxserver) - OTX Server from: (6 days ago)
+- [sileshn/ManjaroWSL](https://github.com/sileshn/ManjaroWSL) - Manjaro for WSL2 using wsldl (3 days ago)
+- [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install. (3 days ago)
+- [mattyx14/otxserver](https://github.com/mattyx14/otxserver) - OTX Server from: (1 week ago)
 
 #### 📫 How to reach me
 
