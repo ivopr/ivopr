@@ -8,7 +8,7 @@
 
 - [ivopr/mantis](https://github.com/ivopr/mantis) - A Next.js tibia account manager (1 week ago)
 - [ivopr/idw](https://github.com/ivopr/idw) - Códigos desenvolvidos durante a matéria de Introdução ao Desenvolvimento Web (1 week ago)
-- [ivopr/finalcg](https://github.com/ivopr/finalcg) -  (4 weeks ago)
+- [ivopr/finalcg](https://github.com/ivopr/finalcg) -  (1 month ago)
 
 #### 🌱 My latest projects
 
