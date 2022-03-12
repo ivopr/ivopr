@@ -18,9 +18,9 @@
 
 #### ⭐️ Latest starred repos
 
+- [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference (today)
 - [sileshn/ManjaroWSL](https://github.com/sileshn/ManjaroWSL) - Manjaro for WSL2 using wsldl (1 week ago)
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install. (1 week ago)
-- [mattyx14/otxserver](https://github.com/mattyx14/otxserver) - OTX Server from: (2 weeks ago)
 
 #### 📫 How to reach me
 
