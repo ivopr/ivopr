@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ivopr/abyss](https://github.com/ivopr/abyss) - My personal Next.js template (1 day ago)
+- [ivopr/abyss](https://github.com/ivopr/abyss) - My personal Next.js template (today)
+- [ivopr/mantis](https://github.com/ivopr/mantis) - A Next.js tibia account manager (today)
 - [ivopr/idw](https://github.com/ivopr/idw) - Códigos desenvolvidos durante a matéria de Introdução ao Desenvolvimento Web (1 week ago)
-- [ivopr/mantis](https://github.com/ivopr/mantis) - A Next.js tibia account manager (1 week ago)
 
 #### 🌱 My latest projects
 
