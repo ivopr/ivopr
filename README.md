@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ivopr/abyss](https://github.com/ivopr/abyss) - My personal Next.js template (today)
-- [ivopr/mantis](https://github.com/ivopr/mantis) - A Next.js tibia account manager (today)
-- [ivopr/idw](https://github.com/ivopr/idw) - Códigos desenvolvidos durante a matéria de Introdução ao Desenvolvimento Web (1 week ago)
+- [ivopr/mantis](https://github.com/ivopr/mantis) - A Next.js tibia account manager (1 day ago)
+- [ivopr/abyss](https://github.com/ivopr/abyss) - My personal Next.js template (1 day ago)
+- [ivopr/idw](https://github.com/ivopr/idw) - Códigos desenvolvidos durante a matéria de Introdução ao Desenvolvimento Web (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -18,9 +18,9 @@
 
 #### ⭐️ Latest starred repos
 
-- [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference (1 day ago)
-- [sileshn/ManjaroWSL](https://github.com/sileshn/ManjaroWSL) - Manjaro for WSL2 using wsldl (1 week ago)
-- [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install. (1 week ago)
+- [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference (2 days ago)
+- [sileshn/ManjaroWSL](https://github.com/sileshn/ManjaroWSL) - Manjaro for WSL2 using wsldl (2 weeks ago)
+- [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install. (2 weeks ago)
 
 #### 📫 How to reach me
 
