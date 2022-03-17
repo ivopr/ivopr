@@ -6,15 +6,15 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [ivopr/karma](https://github.com/ivopr/karma) -  (today)
 - [ivopr/abyss](https://github.com/ivopr/abyss) - My personal Next.js template (2 days ago)
 - [ivopr/mantis](https://github.com/ivopr/mantis) - A Next.js tibia account manager (4 days ago)
-- [ivopr/idw](https://github.com/ivopr/idw) - Códigos desenvolvidos durante a matéria de Introdução ao Desenvolvimento Web (2 weeks ago)
 
 #### 🌱 My latest projects
 
+- [ivopr/karma](https://github.com/ivopr/karma) - 
 - [ivopr/abyss](https://github.com/ivopr/abyss) - My personal Next.js template
 - [ivopr/mantis](https://github.com/ivopr/mantis) - A Next.js tibia account manager
-- [ivopr/finalcg](https://github.com/ivopr/finalcg) - 
 
 #### ⭐️ Latest starred repos
 
