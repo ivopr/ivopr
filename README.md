@@ -6,19 +6,19 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ivopr/karma](https://github.com/ivopr/karma) -  (today)
-- [ivopr/abyss](https://github.com/ivopr/abyss) - My personal Next.js template (2 days ago)
-- [ivopr/mantis](https://github.com/ivopr/mantis) - A Next.js tibia account manager (4 days ago)
+- [ivopr/karma](https://github.com/ivopr/karma) - A Expo boilerplate (1 day ago)
+- [ivopr/abyss](https://github.com/ivopr/abyss) - A Next.js template (3 days ago)
+- [ivopr/mantis](https://github.com/ivopr/mantis) - A Next.js tibia account manager (5 days ago)
 
 #### 🌱 My latest projects
 
-- [ivopr/karma](https://github.com/ivopr/karma) - 
-- [ivopr/abyss](https://github.com/ivopr/abyss) - My personal Next.js template
+- [ivopr/karma](https://github.com/ivopr/karma) - A Expo boilerplate
+- [ivopr/abyss](https://github.com/ivopr/abyss) - A Next.js template
 - [ivopr/mantis](https://github.com/ivopr/mantis) - A Next.js tibia account manager
 
 #### ⭐️ Latest starred repos
 
-- [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference (5 days ago)
+- [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference (6 days ago)
 - [sileshn/ManjaroWSL](https://github.com/sileshn/ManjaroWSL) - Manjaro for WSL2 using wsldl (2 weeks ago)
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install. (2 weeks ago)
 
