@@ -6,15 +6,15 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [ivopr/idw-six](https://github.com/ivopr/idw-six) -  (today)
 - [ivopr/karma](https://github.com/ivopr/karma) - A Expo boilerplate (2 days ago)
 - [ivopr/abyss](https://github.com/ivopr/abyss) - A Next.js template (4 days ago)
-- [ivopr/mantis](https://github.com/ivopr/mantis) - A Next.js tibia account manager (6 days ago)
 
 #### 🌱 My latest projects
 
+- [ivopr/idw-six](https://github.com/ivopr/idw-six) - 
 - [ivopr/karma](https://github.com/ivopr/karma) - A Expo boilerplate
 - [ivopr/abyss](https://github.com/ivopr/abyss) - A Next.js template
-- [ivopr/mantis](https://github.com/ivopr/mantis) - A Next.js tibia account manager
 
 #### ⭐️ Latest starred repos
 
