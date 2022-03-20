@@ -6,15 +6,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ivopr/idw-six](https://github.com/ivopr/idw-six) -  (today)
-- [ivopr/karma](https://github.com/ivopr/karma) - A Expo boilerplate (2 days ago)
-- [ivopr/abyss](https://github.com/ivopr/abyss) - A Next.js template (4 days ago)
+- [ivopr/idw-eight](https://github.com/ivopr/idw-eight) -  (1 day ago)
+- [ivopr/idw-six](https://github.com/ivopr/idw-six) -  (1 day ago)
+- [ivopr/karma](https://github.com/ivopr/karma) - A Expo boilerplate (3 days ago)
 
 #### 🌱 My latest projects
 
+- [ivopr/idw-eight](https://github.com/ivopr/idw-eight) - 
 - [ivopr/idw-six](https://github.com/ivopr/idw-six) - 
 - [ivopr/karma](https://github.com/ivopr/karma) - A Expo boilerplate
-- [ivopr/abyss](https://github.com/ivopr/abyss) - A Next.js template
 
 #### ⭐️ Latest starred repos
 
