@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ivopr/idw-eight](https://github.com/ivopr/idw-eight) -  (1 day ago)
-- [ivopr/idw-six](https://github.com/ivopr/idw-six) -  (1 day ago)
-- [ivopr/karma](https://github.com/ivopr/karma) - A Expo boilerplate (3 days ago)
+- [ivopr/idw-eight](https://github.com/ivopr/idw-eight) -  (2 days ago)
+- [ivopr/idw-six](https://github.com/ivopr/idw-six) -  (2 days ago)
+- [ivopr/karma](https://github.com/ivopr/karma) - A Expo boilerplate (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -19,8 +19,8 @@
 #### ⭐️ Latest starred repos
 
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference (1 week ago)
-- [sileshn/ManjaroWSL](https://github.com/sileshn/ManjaroWSL) - Manjaro for WSL2 using wsldl (2 weeks ago)
-- [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install. (2 weeks ago)
+- [sileshn/ManjaroWSL](https://github.com/sileshn/ManjaroWSL) - Manjaro for WSL2 using wsldl (3 weeks ago)
+- [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install. (3 weeks ago)
 
 #### 📫 How to reach me
 
