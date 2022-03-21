@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ivopr/idw-eight](https://github.com/ivopr/idw-eight) -  (2 days ago)
+- [ivopr/idw-eight](https://github.com/ivopr/idw-eight) -  (today)
 - [ivopr/idw-six](https://github.com/ivopr/idw-six) -  (2 days ago)
 - [ivopr/karma](https://github.com/ivopr/karma) - A Expo boilerplate (4 days ago)
 
