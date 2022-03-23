@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [LABIOQUIM/visualdynamics](https://github.com/LABIOQUIM/visualdynamics) - Aplicação Web em Python com o framework Flask para dinâmica molecular com o GROMACS (today)
 - [ivopr/karma](https://github.com/ivopr/karma) - A Expo boilerplate (1 day ago)
-- [LABIOQUIM/visualdynamics](https://github.com/LABIOQUIM/visualdynamics) - Aplicação Web em Python com o framework Flask para dinâmica molecular com o GROMACS (1 day ago)
 - [ivopr/sakura](https://github.com/ivopr/sakura) - A Next.js tibia account manager (1 day ago)
 
 #### 🌱 My latest projects
