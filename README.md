@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LABIOQUIM/visualdynamics](https://github.com/LABIOQUIM/visualdynamics) - Aplicação Web em Python com o framework Flask para dinâmica molecular com o GROMACS (today)
-- [ivopr/karma](https://github.com/ivopr/karma) - A Expo boilerplate (1 day ago)
-- [ivopr/sakura](https://github.com/ivopr/sakura) - A Next.js tibia account manager (1 day ago)
+- [LABIOQUIM/visualdynamics](https://github.com/LABIOQUIM/visualdynamics) - Aplicação Web em Python com o framework Flask para dinâmica molecular com o GROMACS (1 day ago)
+- [ivopr/karma](https://github.com/ivopr/karma) - A Expo boilerplate (2 days ago)
+- [ivopr/sakura](https://github.com/ivopr/sakura) - A Next.js tibia account manager (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,8 +18,8 @@
 
 #### ⭐️ Latest starred repos
 
-- [OTCv8/otclientv8](https://github.com/OTCv8/otclientv8) - Clean, ready to use version of OTClientV8 - Alternative, highly optimized Tibia client (2 days ago)
-- [prisma/docs](https://github.com/prisma/docs) - 📚 Prisma Documentation (2 days ago)
+- [OTCv8/otclientv8](https://github.com/OTCv8/otclientv8) - Clean, ready to use version of OTClientV8 - Alternative, highly optimized Tibia client (3 days ago)
+- [prisma/docs](https://github.com/prisma/docs) - 📚 Prisma Documentation (3 days ago)
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference (1 week ago)
 
 #### 📫 How to reach me
