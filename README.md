@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ivopr/sakura](https://github.com/ivopr/sakura) - A Next.js tibia account manager (1 day ago)
+- [ivopr/sakura](https://github.com/ivopr/sakura) - A Next.js tibia account manager (today)
 - [LABIOQUIM/visualdynamics](https://github.com/LABIOQUIM/visualdynamics) - Aplicação Web em Python com o framework Flask para dinâmica molecular com o GROMACS (2 days ago)
 - [ivopr/karma](https://github.com/ivopr/karma) - A Expo boilerplate (3 days ago)
 
