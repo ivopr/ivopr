@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ivopr/sakura](https://github.com/ivopr/sakura) - A Next.js tibia account manager (1 day ago)
-- [LABIOQUIM/visualdynamics](https://github.com/LABIOQUIM/visualdynamics) - Aplicação Web em Python com o framework Flask para dinâmica molecular com o GROMACS (3 days ago)
-- [ivopr/karma](https://github.com/ivopr/karma) - A Expo boilerplate (4 days ago)
+- [ivopr/sakura](https://github.com/ivopr/sakura) - A Next.js tibia account manager (2 days ago)
+- [LABIOQUIM/visualdynamics](https://github.com/LABIOQUIM/visualdynamics) - Aplicação Web em Python com o framework Flask para dinâmica molecular com o GROMACS (4 days ago)
+- [ivopr/karma](https://github.com/ivopr/karma) - A Expo boilerplate (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -18,9 +18,9 @@
 
 #### ⭐️ Latest starred repos
 
-- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs (2 days ago)
-- [OTCv8/otclientv8](https://github.com/OTCv8/otclientv8) - Clean, ready to use version of OTClientV8 - Alternative, highly optimized Tibia client (5 days ago)
-- [prisma/docs](https://github.com/prisma/docs) - 📚 Prisma Documentation (5 days ago)
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs (3 days ago)
+- [OTCv8/otclientv8](https://github.com/OTCv8/otclientv8) - Clean, ready to use version of OTClientV8 - Alternative, highly optimized Tibia client (6 days ago)
+- [prisma/docs](https://github.com/prisma/docs) - 📚 Prisma Documentation (6 days ago)
 
 #### 📫 How to reach me
 
