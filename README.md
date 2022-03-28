@@ -18,9 +18,9 @@
 
 #### ⭐️ Latest starred repos
 
+- [wix/react-native-ui-lib](https://github.com/wix/react-native-ui-lib) - UI Components Library for React Native (today)
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs (4 days ago)
 - [OTCv8/otclientv8](https://github.com/OTCv8/otclientv8) - Clean, ready to use version of OTClientV8 - Alternative, highly optimized Tibia client (1 week ago)
-- [prisma/docs](https://github.com/prisma/docs) - 📚 Prisma Documentation (1 week ago)
 
 #### 📫 How to reach me
 
