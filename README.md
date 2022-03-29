@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ivopr/sakura](https://github.com/ivopr/sakura) - A Next.js tibia account manager (3 days ago)
-- [LABIOQUIM/visualdynamics](https://github.com/LABIOQUIM/visualdynamics) - Aplicação Web em Python com o framework Flask para dinâmica molecular com o GROMACS (5 days ago)
-- [ivopr/karma](https://github.com/ivopr/karma) - A Expo boilerplate (6 days ago)
+- [ivopr/sakura](https://github.com/ivopr/sakura) - A Next.js tibia account manager (4 days ago)
+- [LABIOQUIM/visualdynamics](https://github.com/LABIOQUIM/visualdynamics) - Aplicação Web em Python com o framework Flask para dinâmica molecular com o GROMACS (6 days ago)
+- [ivopr/karma](https://github.com/ivopr/karma) - A Expo boilerplate (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -18,8 +18,8 @@
 
 #### ⭐️ Latest starred repos
 
-- [wix/react-native-ui-lib](https://github.com/wix/react-native-ui-lib) - UI Components Library for React Native (today)
-- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs (4 days ago)
+- [wix/react-native-ui-lib](https://github.com/wix/react-native-ui-lib) - UI Components Library for React Native (1 day ago)
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs (5 days ago)
 - [OTCv8/otclientv8](https://github.com/OTCv8/otclientv8) - Clean, ready to use version of OTClientV8 - Alternative, highly optimized Tibia client (1 week ago)
 
 #### 📫 How to reach me
