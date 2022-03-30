@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ivopr/finalcg](https://github.com/ivopr/finalcg) -  (today)
-- [ivopr/sakura](https://github.com/ivopr/sakura) - A Next.js tibia account manager (4 days ago)
-- [LABIOQUIM/visualdynamics](https://github.com/LABIOQUIM/visualdynamics) - Aplicação Web em Python com o framework Flask para dinâmica molecular com o GROMACS (6 days ago)
+- [ivopr/finalcg](https://github.com/ivopr/finalcg) -  (1 day ago)
+- [ivopr/sakura](https://github.com/ivopr/sakura) - A Next.js tibia account manager (5 days ago)
+- [LABIOQUIM/visualdynamics](https://github.com/LABIOQUIM/visualdynamics) - Aplicação Web em Python com o framework Flask para dinâmica molecular com o GROMACS (1 week ago)
 - [ivopr/karma](https://github.com/ivopr/karma) - A Expo boilerplate (1 week ago)
 - [ivopr/idw-eight](https://github.com/ivopr/idw-eight) -  (1 week ago)
 
