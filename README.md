@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [demonicat/sakura](https://github.com/demonicat/sakura) - A Next.js tibia account manager (today)
-- [demonicat/sakura-server](https://github.com/demonicat/sakura-server) -  (today)
-- [demonicat/sakura-client](https://github.com/demonicat/sakura-client) -  (today)
-- [LABIOQUIM/visualdynamics](https://github.com/LABIOQUIM/visualdynamics) - Aplicação Web em Python com o framework Flask para dinâmica molecular com o GROMACS (1 day ago)
-- [demonicat/pokeclient](https://github.com/demonicat/pokeclient) -  (1 day ago)
+- [demonicat/sakura-client](https://github.com/demonicat/sakura-client) -  (1 day ago)
+- [demonicat/sakura](https://github.com/demonicat/sakura) - A Next.js tibia account manager (1 day ago)
+- [demonicat/sakura-server](https://github.com/demonicat/sakura-server) -  (1 day ago)
+- [LABIOQUIM/visualdynamics](https://github.com/LABIOQUIM/visualdynamics) - Aplicação Web em Python com o framework Flask para dinâmica molecular com o GROMACS (2 days ago)
+- [demonicat/pokeclient](https://github.com/demonicat/pokeclient) -  (2 days ago)
 
 #### 📫 How to reach me
 
