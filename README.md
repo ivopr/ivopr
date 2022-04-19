@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [demonicat/demonicatdotcom](https://github.com/demonicat/demonicatdotcom) - demonicat website (4 days ago)
-- [demonicat/sakura](https://github.com/demonicat/sakura) - A Next.js tibia account manager (6 days ago)
+- [demonicat/demonicatdotcom](https://github.com/demonicat/demonicatdotcom) - demonicat website (5 days ago)
+- [demonicat/sakura](https://github.com/demonicat/sakura) - A Next.js tibia account manager (1 week ago)
 - [LABIOQUIM/visualdynamics](https://github.com/LABIOQUIM/visualdynamics) - Aplicação Web em Python com o framework Flask para dinâmica molecular com o GROMACS (1 week ago)
 - [demonicat/sakura-server](https://github.com/demonicat/sakura-server) -  (1 week ago)
 - [demonicat/sakura-client](https://github.com/demonicat/sakura-client) -  (1 week ago)
