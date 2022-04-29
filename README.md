@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [demonicat/karma](https://github.com/demonicat/karma) - A Expo boilerplate (today)
+- [ivopr/finyances](https://github.com/ivopr/finyances) -  (today)
 - [LABIOQUIM/visualdynamics](https://github.com/LABIOQUIM/visualdynamics) - Aplicação Web em Python com o framework Flask para dinâmica molecular com o GROMACS (1 week ago)
 - [demonicat/demonicatdotcom](https://github.com/demonicat/demonicatdotcom) - demonicat website (2 weeks ago)
 - [demonicat/sakura](https://github.com/demonicat/sakura) - A Next.js tibia account manager (2 weeks ago)
-- [demonicat/sakura-server](https://github.com/demonicat/sakura-server) -  (3 weeks ago)
-- [demonicat/sakura-client](https://github.com/demonicat/sakura-client) -  (3 weeks ago)
 
 #### 📫 How to reach me
 
