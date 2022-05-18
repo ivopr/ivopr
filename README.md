@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LABIOQUIM/visualdynamics](https://github.com/LABIOQUIM/visualdynamics) - Aplicação Web em Python com o framework Flask para dinâmica molecular com o GROMACS (today)
+- [LABIOQUIM/visualdynamics](https://github.com/LABIOQUIM/visualdynamics) - Aplicação Web em Python com o framework Flask para dinâmica molecular com o GROMACS (1 day ago)
 - [demonicat/karma](https://github.com/demonicat/karma) - A Expo boilerplate (1 week ago)
 - [ivopr/expo-17380](https://github.com/ivopr/expo-17380) -  (1 week ago)
 - [demonicat/demonicatdotcom](https://github.com/demonicat/demonicatdotcom) - demonicat website (1 month ago)
