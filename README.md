@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [tamagui/tamagui](https://github.com/tamagui/tamagui) - Universal UI kit and style system for React Native &#43; Web - with an optimizing compiler 🚄 (1 day ago)
 - [Ictiobiometria/.github](https://github.com/Ictiobiometria/.github) -  (3 days ago)
 - [LABIOQUIM/visualdynamics](https://github.com/LABIOQUIM/visualdynamics) - Aplicação Web em Python com o framework Flask para dinâmica molecular com o GROMACS (5 days ago)
 - [demonicat/karma](https://github.com/demonicat/karma) - A Expo boilerplate (2 weeks ago)
 - [ivopr/expo-17380](https://github.com/ivopr/expo-17380) -  (2 weeks ago)
-- [demonicat/demonicatdotcom](https://github.com/demonicat/demonicatdotcom) - demonicat website (1 month ago)
 
 #### 📫 How to reach me
 
