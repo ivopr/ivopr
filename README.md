@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ivopr/tamagui-expo](https://github.com/ivopr/tamagui-expo) -  (today)
-- [tamagui/tamagui](https://github.com/tamagui/tamagui) - Universal UI kit and style system for React Native &#43; Web - with an optimizing compiler 🚄 (2 days ago)
-- [Ictiobiometria/.github](https://github.com/Ictiobiometria/.github) -  (4 days ago)
-- [LABIOQUIM/visualdynamics](https://github.com/LABIOQUIM/visualdynamics) - Aplicação Web em Python com o framework Flask para dinâmica molecular com o GROMACS (6 days ago)
-- [demonicat/karma](https://github.com/demonicat/karma) - A Expo boilerplate (2 weeks ago)
+- [ivopr/tamagui-expo](https://github.com/ivopr/tamagui-expo) -  (1 day ago)
+- [tamagui/tamagui](https://github.com/tamagui/tamagui) - Universal UI kit and style system for React Native &#43; Web - with an optimizing compiler 🚄 (3 days ago)
+- [Ictiobiometria/.github](https://github.com/Ictiobiometria/.github) -  (5 days ago)
+- [LABIOQUIM/visualdynamics](https://github.com/LABIOQUIM/visualdynamics) - Aplicação Web em Python com o framework Flask para dinâmica molecular com o GROMACS (1 week ago)
+- [ivopr/expo-17380](https://github.com/ivopr/expo-17380) -  (3 weeks ago)
 
 #### 📫 How to reach me
 
