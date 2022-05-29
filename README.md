@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ivopr/tamagui-expo](https://github.com/ivopr/tamagui-expo) -  (2 days ago)
+- [ivopr/algoritmos-avancados](https://github.com/ivopr/algoritmos-avancados) -  (today)
+- [ivopr/processamento-imagem](https://github.com/ivopr/processamento-imagem) -  (today)
+- [ivopr/tamagui-expo](https://github.com/ivopr/tamagui-expo) -  (today)
 - [tamagui/tamagui](https://github.com/tamagui/tamagui) - Universal UI kit and style system for React Native &#43; Web - with an optimizing compiler 🚄 (4 days ago)
 - [Ictiobiometria/.github](https://github.com/Ictiobiometria/.github) -  (6 days ago)
-- [LABIOQUIM/visualdynamics](https://github.com/LABIOQUIM/visualdynamics) - Aplicação Web em Python com o framework Flask para dinâmica molecular com o GROMACS (1 week ago)
-- [ivopr/expo-17380](https://github.com/ivopr/expo-17380) -  (3 weeks ago)
 
 #### 📫 How to reach me
 
