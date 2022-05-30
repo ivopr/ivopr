@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ivopr/algoritmos-avancados](https://github.com/ivopr/algoritmos-avancados) -  (today)
-- [ivopr/processamento-imagem](https://github.com/ivopr/processamento-imagem) -  (today)
-- [ivopr/tamagui-expo](https://github.com/ivopr/tamagui-expo) -  (today)
-- [tamagui/tamagui](https://github.com/tamagui/tamagui) - Universal UI kit and style system for React Native &#43; Web - with an optimizing compiler 🚄 (4 days ago)
-- [Ictiobiometria/.github](https://github.com/Ictiobiometria/.github) -  (6 days ago)
+- [ivopr/algoritmos-avancados](https://github.com/ivopr/algoritmos-avancados) -  (1 day ago)
+- [ivopr/processamento-imagem](https://github.com/ivopr/processamento-imagem) -  (1 day ago)
+- [ivopr/tamagui-expo](https://github.com/ivopr/tamagui-expo) -  (1 day ago)
+- [tamagui/tamagui](https://github.com/tamagui/tamagui) - Universal UI kit and style system for React Native &#43; Web - with an optimizing compiler 🚄 (5 days ago)
+- [Ictiobiometria/.github](https://github.com/Ictiobiometria/.github) -  (1 week ago)
 
 #### 📫 How to reach me
 
