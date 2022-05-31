@@ -10,7 +10,7 @@
 - [ivopr/processamento-imagem](https://github.com/ivopr/processamento-imagem) -  (2 days ago)
 - [ivopr/algoritmos-avancados](https://github.com/ivopr/algoritmos-avancados) -  (2 days ago)
 - [ivopr/tamagui-expo](https://github.com/ivopr/tamagui-expo) -  (2 days ago)
-- [tamagui/tamagui](https://github.com/tamagui/tamagui) - Universal UI kit and style system for React Native &#43; Web - with an optimizing compiler 🚄 (6 days ago)
+- [tamagui/tamagui](https://github.com/tamagui/tamagui) - Universal UI kit and style system for React Native &#43; Web - with an optimizing compiler 🚄 (3 days ago)
 
 #### 📫 How to reach me
 
