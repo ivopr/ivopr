@@ -6,10 +6,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ivopr/obelisk](https://github.com/ivopr/obelisk) - Your own monument of tasks (2 days ago)
-- [ivopr/processamento-imagem](https://github.com/ivopr/processamento-imagem) -  (1 week ago)
-- [ivopr/algoritmos-avancados](https://github.com/ivopr/algoritmos-avancados) -  (1 week ago)
+- [ivopr/obelisk](https://github.com/ivopr/obelisk) - Your own monument of tasks (today)
 - [ivopr/tamagui-expo](https://github.com/ivopr/tamagui-expo) -  (1 week ago)
+- [ivopr/algoritmos-avancados](https://github.com/ivopr/algoritmos-avancados) -  (1 week ago)
+- [ivopr/processamento-imagem](https://github.com/ivopr/processamento-imagem) -  (1 week ago)
 - [tamagui/tamagui](https://github.com/tamagui/tamagui) - Universal UI kit and style system for React Native &#43; Web - with an optimizing compiler 🚄 (1 week ago)
 
 #### 📫 How to reach me
