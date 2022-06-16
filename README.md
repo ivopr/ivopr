@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ivopr/obelisk](https://github.com/ivopr/obelisk) - Your own monument of tasks (today)
+- [ivopr/obelisk](https://github.com/ivopr/obelisk) - Your own monument of tasks (1 day ago)
 - [ivopr/algoritmos-avancados](https://github.com/ivopr/algoritmos-avancados) -  (2 weeks ago)
 - [ivopr/tamagui-expo](https://github.com/ivopr/tamagui-expo) -  (2 weeks ago)
 - [ivopr/processamento-imagem](https://github.com/ivopr/processamento-imagem) -  (2 weeks ago)
