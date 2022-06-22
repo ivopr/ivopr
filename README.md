@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ivopr/tamagui-expo](https://github.com/ivopr/tamagui-expo) -  (3 days ago)
-- [ivopr/obelisk](https://github.com/ivopr/obelisk) - Your own monument of tasks (6 days ago)
-- [ivopr/algoritmos-avancados](https://github.com/ivopr/algoritmos-avancados) -  (3 weeks ago)
+- [ivopr/procim-app](https://github.com/ivopr/procim-app) -  (1 day ago)
+- [ivopr/procim-api](https://github.com/ivopr/procim-api) -  (1 day ago)
+- [ivopr/tamagui-expo](https://github.com/ivopr/tamagui-expo) -  (4 days ago)
+- [ivopr/obelisk](https://github.com/ivopr/obelisk) - Your own monument of tasks (1 week ago)
 - [ivopr/processamento-imagem](https://github.com/ivopr/processamento-imagem) -  (3 weeks ago)
-- [tamagui/tamagui](https://github.com/tamagui/tamagui) - Universal UI kit and style system for React Native &#43; Web - with an optimizing compiler 🚄 (3 weeks ago)
 
 #### 📫 How to reach me
 
