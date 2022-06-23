@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ivopr/tamagui-expo](https://github.com/ivopr/tamagui-expo) -  (1 day ago)
+- [ivopr/tamagui-expo](https://github.com/ivopr/tamagui-expo) -  (today)
 - [ivopr/procim-app](https://github.com/ivopr/procim-app) -  (2 days ago)
 - [ivopr/procim-api](https://github.com/ivopr/procim-api) -  (2 days ago)
 - [ivopr/obelisk](https://github.com/ivopr/obelisk) - Your own monument of tasks (1 week ago)
