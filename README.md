@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ivopr/ignews](https://github.com/ivopr/ignews) -  (1 day ago)
+- [ivopr/ignews](https://github.com/ivopr/ignews) -  (today)
 - [ivopr/tamagui-expo](https://github.com/ivopr/tamagui-expo) -  (2 days ago)
 - [ivopr/procim-app](https://github.com/ivopr/procim-app) -  (5 days ago)
 - [ivopr/procim-api](https://github.com/ivopr/procim-api) -  (5 days ago)
