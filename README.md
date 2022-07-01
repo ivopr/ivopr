@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [ivopr/algoritmos-avancados](https://github.com/ivopr/algoritmos-avancados) -  (today)
 - [ivopr/ignews](https://github.com/ivopr/ignews) -  (5 days ago)
 - [ivopr/tamagui-expo](https://github.com/ivopr/tamagui-expo) - An Expo template with Tamagui, MobX and i18n (5 days ago)
 - [ivopr/procim-app](https://github.com/ivopr/procim-app) -  (1 week ago)
 - [ivopr/procim-api](https://github.com/ivopr/procim-api) -  (1 week ago)
-- [ivopr/processamento-imagem](https://github.com/ivopr/processamento-imagem) -  (1 month ago)
 
 #### 📫 How to reach me
 
