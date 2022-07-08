@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ivopr/tamagui-expo](https://github.com/ivopr/tamagui-expo) - An Expo template with Tamagui, MobX and i18n (today)
-- [ivopr/algoritmos-avancados](https://github.com/ivopr/algoritmos-avancados) -  (6 days ago)
+- [ivopr/tamagui-expo](https://github.com/ivopr/tamagui-expo) - An Expo template with Tamagui, MobX and i18n (1 day ago)
+- [ivopr/algoritmos-avancados](https://github.com/ivopr/algoritmos-avancados) -  (1 week ago)
 - [ivopr/ignews](https://github.com/ivopr/ignews) -  (1 week ago)
 - [ivopr/procim-app](https://github.com/ivopr/procim-app) -  (2 weeks ago)
 - [ivopr/procim-api](https://github.com/ivopr/procim-api) -  (2 weeks ago)
