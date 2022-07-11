@@ -6,7 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [tamagui/tamagui](https://github.com/tamagui/tamagui) - Universal UI kit and style system for React Native &#43; Web - with an optimizing compiler 🚄 (1 month ago)
+- [LABIOQUIM/visualdynamics](https://github.com/LABIOQUIM/visualdynamics) - Aplicação Web em Python com o framework Flask para dinâmica molecular com o GROMACS (1 day ago)
+- [ivopr/tamagui-expo](https://github.com/ivopr/tamagui-expo) - An Expo template with Tamagui, MobX and i18n (2 days ago)
+- [ivopr/algoritmos-avancados](https://github.com/ivopr/algoritmos-avancados) -  (1 week ago)
+- [ivopr/ignews](https://github.com/ivopr/ignews) -  (2 weeks ago)
+- [ivopr/procim-app](https://github.com/ivopr/procim-app) -  (2 weeks ago)
 
 #### 📫 How to reach me
 
