@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ivopr/tamagui-expo](https://github.com/ivopr/tamagui-expo) - An Expo template with Tamagui, MobX and i18n (4 days ago)
+- [ivopr/algoritmos-avancados](https://github.com/ivopr/algoritmos-avancados) -  (1 day ago)
+- [ivopr/tamagui-expo](https://github.com/ivopr/tamagui-expo) - An Expo template with Tamagui, MobX and i18n (5 days ago)
 - [LABIOQUIM/visualdynamics](https://github.com/LABIOQUIM/visualdynamics) - Aplicação Web em Python com o framework Flask para dinâmica molecular com o GROMACS (1 week ago)
-- [ivopr/algoritmos-avancados](https://github.com/ivopr/algoritmos-avancados) -  (2 weeks ago)
 - [ivopr/ignews](https://github.com/ivopr/ignews) -  (3 weeks ago)
 - [ivopr/procim-app](https://github.com/ivopr/procim-app) -  (1 month ago)
 
