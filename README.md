@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [demonicat/demonicatdotcom](https://github.com/demonicat/demonicatdotcom) - demonicat website (2 days ago)
-- [ivopr/algoritmos-avancados](https://github.com/ivopr/algoritmos-avancados) -  (4 days ago)
+- [demonicat/demonicatdotcom](https://github.com/demonicat/demonicatdotcom) - demonicat website (3 days ago)
+- [ivopr/algoritmos-avancados](https://github.com/ivopr/algoritmos-avancados) -  (5 days ago)
 - [ivopr/tamagui-expo](https://github.com/ivopr/tamagui-expo) - An Expo template with Tamagui, MobX and i18n (1 week ago)
 - [LABIOQUIM/visualdynamics](https://github.com/LABIOQUIM/visualdynamics) - Aplicação Web em Python com o framework Flask para dinâmica molecular com o GROMACS (1 week ago)
-- [ivopr/ignews](https://github.com/ivopr/ignews) -  (4 weeks ago)
+- [ivopr/ignews](https://github.com/ivopr/ignews) -  (1 month ago)
 
 #### 📫 How to reach me
 
