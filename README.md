@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ivopr/hatena](https://github.com/ivopr/hatena) -  (2 days ago)
+- [ivopr/hatena](https://github.com/ivopr/hatena) -  (3 days ago)
 - [ivopr/processamento-imagem](https://github.com/ivopr/processamento-imagem) -  (1 week ago)
 - [ivopr/algoritmos-avancados](https://github.com/ivopr/algoritmos-avancados) -  (1 week ago)
 - [ivopr/tamagui-expo](https://github.com/ivopr/tamagui-expo) - An Expo template with Tamagui, MobX and i18n (2 weeks ago)
