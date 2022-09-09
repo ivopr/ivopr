@@ -9,7 +9,7 @@
 - [LABIOQUIM/visualdynamics](https://github.com/LABIOQUIM/visualdynamics) - Aplicação Web em Python com o framework Flask para dinâmica molecular com o GROMACS (1 week ago)
 - [ivopr/processamento-imagem](https://github.com/ivopr/processamento-imagem) -  (3 weeks ago)
 - [ivopr/algoritmos-avancados](https://github.com/ivopr/algoritmos-avancados) -  (3 weeks ago)
-- [ivopr/tamagui-expo](https://github.com/ivopr/tamagui-expo) - An Expo template with Tamagui, MobX and i18n (4 weeks ago)
+- [ivopr/tamagui-expo](https://github.com/ivopr/tamagui-expo) - An Expo template with Tamagui, MobX and i18n (1 month ago)
 - [demonicat/dotcom](https://github.com/demonicat/dotcom) - demonicat website (1 month ago)
 
 #### 📫 How to reach me
