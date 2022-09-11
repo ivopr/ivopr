@@ -10,7 +10,7 @@
 - [ivopr/processamento-imagem](https://github.com/ivopr/processamento-imagem) -  (3 weeks ago)
 - [ivopr/algoritmos-avancados](https://github.com/ivopr/algoritmos-avancados) -  (3 weeks ago)
 - [ivopr/tamagui-expo](https://github.com/ivopr/tamagui-expo) - An Expo template with Tamagui, MobX and i18n (1 month ago)
-- [vistgg/dotcom](https://github.com/vistgg/dotcom) - demonicat website (1 month ago)
+- [vistgg/vistgg](https://github.com/vistgg/vistgg) -  (1 month ago)
 
 #### 📫 How to reach me
 
