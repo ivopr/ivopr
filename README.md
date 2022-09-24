@@ -10,7 +10,7 @@
 - [ivopr/algoritmos-avancados](https://github.com/ivopr/algoritmos-avancados) -  (1 month ago)
 - [ivopr/processamento-imagem](https://github.com/ivopr/processamento-imagem) -  (1 month ago)
 - [ivopr/tamagui-expo](https://github.com/ivopr/tamagui-expo) - An Expo template with Tamagui, MobX and i18n (1 month ago)
-- [ivopr/ignews](https://github.com/ivopr/ignews) -  (2 months ago)
+- [ivopr/ignews](https://github.com/ivopr/ignews) -  (3 months ago)
 
 #### 📫 How to reach me
 
