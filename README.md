@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ivopr/tamagui-expo](https://github.com/ivopr/tamagui-expo) - An Expo template with Tamagui (4 days ago)
+- [ivopr/tamagui-expo](https://github.com/ivopr/tamagui-expo) - An Expo template with Tamagui (5 days ago)
 - [LABIOQUIM/visualdynamics](https://github.com/LABIOQUIM/visualdynamics) - Aplicação Web em Python com o framework Flask para dinâmica molecular com o GROMACS (1 month ago)
 - [ivopr/algoritmos-avancados](https://github.com/ivopr/algoritmos-avancados) -  (1 month ago)
 - [ivopr/processamento-imagem](https://github.com/ivopr/processamento-imagem) -  (1 month ago)
