@@ -6,10 +6,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ivopr/portfolio](https://github.com/ivopr/portfolio) -  (2 days ago)
-- [ivopr/tamagui-expo](https://github.com/ivopr/tamagui-expo) - An Expo template with Tamagui (4 days ago)
-- [LABIOQUIM/visualdynamics](https://github.com/LABIOQUIM/visualdynamics) - Aplicação Web em Python com o framework Flask para dinâmica molecular com o GROMACS (5 days ago)
-- [ivopr/unir](https://github.com/ivopr/unir) -  (5 days ago)
+- [ivopr/portfolio](https://github.com/ivopr/portfolio) -  (3 days ago)
+- [ivopr/tamagui-expo](https://github.com/ivopr/tamagui-expo) - An Expo template with Tamagui (5 days ago)
+- [LABIOQUIM/visualdynamics](https://github.com/LABIOQUIM/visualdynamics) - Aplicação Web em Python com o framework Flask para dinâmica molecular com o GROMACS (6 days ago)
+- [ivopr/unir](https://github.com/ivopr/unir) -  (6 days ago)
 - [ivopr/malaria](https://github.com/ivopr/malaria) -  (1 week ago)
 
 #### 📫 How to reach me
