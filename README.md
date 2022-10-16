@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ivopr/iBot](https://github.com/ivopr/iBot) -  (1 day ago)
+- [ivopr/OTCBots](https://github.com/ivopr/OTCBots) -  (1 day ago)
 - [ivopr/unir](https://github.com/ivopr/unir) -  (1 day ago)
 - [ivopr/portfolio](https://github.com/ivopr/portfolio) -  (3 days ago)
 - [ivopr/tamagui-expo](https://github.com/ivopr/tamagui-expo) - An Expo template with Tamagui (1 week ago)
