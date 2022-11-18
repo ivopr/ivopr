@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ivopr/dotfiles](https://github.com/ivopr/dotfiles) -  (1 day ago)
-- [ivopr/tamagui-expo](https://github.com/ivopr/tamagui-expo) - An Expo template with Tamagui (6 days ago)
-- [ivopr/portfolio](https://github.com/ivopr/portfolio) - My personal portfolio built with Next.js, Tailwind and a bunch of cool stuff (6 days ago)
+- [ivopr/dotfiles](https://github.com/ivopr/dotfiles) -  (2 days ago)
+- [ivopr/tamagui-expo](https://github.com/ivopr/tamagui-expo) - An Expo template with Tamagui (1 week ago)
+- [ivopr/portfolio](https://github.com/ivopr/portfolio) - My personal portfolio built with Next.js, Tailwind and a bunch of cool stuff (1 week ago)
 - [LABIOQUIM/visualdynamics](https://github.com/LABIOQUIM/visualdynamics) - Aplicação Web em Python com o framework Flask para dinâmica molecular com o GROMACS (2 weeks ago)
 - [ivopr/grpc-notes-api](https://github.com/ivopr/grpc-notes-api) -  (2 weeks ago)
 
