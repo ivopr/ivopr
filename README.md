@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LABIOQUIM/visualdynamics](https://github.com/LABIOQUIM/visualdynamics) - Aplicação Web em Python com o framework Flask para dinâmica molecular com o GROMACS (today)
-- [ivopr/tamagui-expo](https://github.com/ivopr/tamagui-expo) - An Expo template with Tamagui (1 week ago)
-- [ivopr/unir](https://github.com/ivopr/unir) -  (2 weeks ago)
+- [ivopr/unir](https://github.com/ivopr/unir) -  (1 day ago)
+- [LABIOQUIM/visualdynamics](https://github.com/LABIOQUIM/visualdynamics) - Aplicação Web em Python com o framework Flask para dinâmica molecular com o GROMACS (1 day ago)
+- [ivopr/tamagui-expo](https://github.com/ivopr/tamagui-expo) - An Expo template with Tamagui (2 weeks ago)
 - [ivopr/dotfiles](https://github.com/ivopr/dotfiles) -  (2 weeks ago)
 - [ivopr/portfolio](https://github.com/ivopr/portfolio) - My personal portfolio built with Next.js, Tailwind and a bunch of cool stuff (3 weeks ago)
 
