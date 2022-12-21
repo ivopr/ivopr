@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ivopr/trpc-ws-chat](https://github.com/ivopr/trpc-ws-chat) -  (1 day ago)
-- [LABIOQUIM/visualdynamics](https://github.com/LABIOQUIM/visualdynamics) - Aplicação Web em Python com o framework Flask para dinâmica molecular com o GROMACS (6 days ago)
-- [ivopr/unir](https://github.com/ivopr/unir) -  (1 week ago)
+- [ivopr/trpc-ws-chat](https://github.com/ivopr/trpc-ws-chat) -  (2 days ago)
+- [LABIOQUIM/visualdynamics](https://github.com/LABIOQUIM/visualdynamics) - Aplicação Web em Python com o framework Flask para dinâmica molecular com o GROMACS (1 week ago)
+- [ivopr/unir](https://github.com/ivopr/unir) -  (2 weeks ago)
 - [ivopr/tamagui-expo](https://github.com/ivopr/tamagui-expo) - An Expo template with Tamagui (1 month ago)
 - [ivopr/dotfiles](https://github.com/ivopr/dotfiles) -  (1 month ago)
 
