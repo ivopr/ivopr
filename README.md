@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ivopr/supavacation](https://github.com/ivopr/supavacation) -  (3 days ago)
-- [ivopr/trpc-ws-chat](https://github.com/ivopr/trpc-ws-chat) -  (5 days ago)
+- [ivopr/supavacation](https://github.com/ivopr/supavacation) -  (4 days ago)
+- [ivopr/trpc-ws-chat](https://github.com/ivopr/trpc-ws-chat) -  (6 days ago)
 - [LABIOQUIM/visualdynamics](https://github.com/LABIOQUIM/visualdynamics) - Aplicação Web em Python com o framework Flask para dinâmica molecular com o GROMACS (1 week ago)
 - [ivopr/unir](https://github.com/ivopr/unir) -  (2 weeks ago)
 - [ivopr/tamagui-expo](https://github.com/ivopr/tamagui-expo) - An Expo template with Tamagui (1 month ago)
