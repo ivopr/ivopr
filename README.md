@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ivopr/portfolio](https://github.com/ivopr/portfolio) - My personal portfolio built with Next.js, Tailwind and a bunch of cool stuff (3 days ago)
-- [LABIOQUIM/visualdynamics](https://github.com/LABIOQUIM/visualdynamics) - Aplicação Web em Python com o framework Flask para dinâmica molecular com o GROMACS (4 days ago)
-- [ivopr/tamagui-expo](https://github.com/ivopr/tamagui-expo) - An Expo template with Tamagui (5 days ago)
+- [ivopr/portfolio](https://github.com/ivopr/portfolio) - My personal portfolio built with Next.js, Tailwind and a bunch of cool stuff (4 days ago)
+- [LABIOQUIM/visualdynamics](https://github.com/LABIOQUIM/visualdynamics) - Aplicação Web em Python com o framework Flask para dinâmica molecular com o GROMACS (5 days ago)
+- [ivopr/tamagui-expo](https://github.com/ivopr/tamagui-expo) - An Expo template with Tamagui (6 days ago)
 - [ivopr/supavacation](https://github.com/ivopr/supavacation) -  (2 weeks ago)
 - [ivopr/trpc-ws-chat](https://github.com/ivopr/trpc-ws-chat) -  (2 weeks ago)
 
