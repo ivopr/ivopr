@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [ivopr/tamagui-expo](https://github.com/ivopr/tamagui-expo) - An Expo template with Tamagui (today)
 - [ivopr/dotfiles](https://github.com/ivopr/dotfiles) -  (1 day ago)
 - [ivopr/unir](https://github.com/ivopr/unir) -  (5 days ago)
-- [ivopr/tamagui-expo](https://github.com/ivopr/tamagui-expo) - An Expo template with Tamagui (5 days ago)
 - [LABIOQUIM/visualdynamics](https://github.com/LABIOQUIM/visualdynamics) - Web Platform made with Python for automatic GROMACS simulations (1 week ago)
 - [vistgg/curriculum](https://github.com/vistgg/curriculum) -  (2 weeks ago)
 
