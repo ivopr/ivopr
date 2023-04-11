@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ivopr/tamagui-expo](https://github.com/ivopr/tamagui-expo) - An Expo template with Tamagui (3 days ago)
-- [ivopr/portfolio](https://github.com/ivopr/portfolio) - My personal portfolio built with Next.js, Tailwind and a bunch of cool stuff (3 days ago)
-- [LABIOQUIM/visualdynamics](https://github.com/LABIOQUIM/visualdynamics) - Web Platform made with Python for automatic GROMACS simulations (4 days ago)
+- [LABIOQUIM/visualdynamics](https://github.com/LABIOQUIM/visualdynamics) - Web Platform made with Python for automatic GROMACS simulations (1 day ago)
+- [ivopr/tamagui-expo](https://github.com/ivopr/tamagui-expo) - An Expo template with Tamagui (4 days ago)
+- [ivopr/portfolio](https://github.com/ivopr/portfolio) - My personal portfolio built with Next.js, Tailwind and a bunch of cool stuff (4 days ago)
 - [ivopr/dotfiles](https://github.com/ivopr/dotfiles) -  (2 weeks ago)
-- [ivopr/unir](https://github.com/ivopr/unir) -  (3 weeks ago)
+- [ivopr/unir](https://github.com/ivopr/unir) -  (4 weeks ago)
 
 #### 📫 How to reach me
 
