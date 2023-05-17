@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ivopr/nlw-spacetime](https://github.com/ivopr/nlw-spacetime) -  (1 day ago)
+- [ivopr/nlw-spacetime](https://github.com/ivopr/nlw-spacetime) -  (today)
 - [ivopr/visualdynamics2](https://github.com/ivopr/visualdynamics2) -  (2 days ago)
 - [ivopr/dotfiles](https://github.com/ivopr/dotfiles) -  (3 days ago)
 - [ivopr/tamagui-expo](https://github.com/ivopr/tamagui-expo) - An Expo template with Tamagui (1 week ago)
