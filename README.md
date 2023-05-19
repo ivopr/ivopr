@@ -6,10 +6,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [ivopr/nlw-spacetime](https://github.com/ivopr/nlw-spacetime) -  (today)
 - [LABIOQUIM/visualdynamics](https://github.com/LABIOQUIM/visualdynamics) - Web Platform made with Python for automatic GROMACS simulations (1 day ago)
 - [ivopr/tamagui-expo](https://github.com/ivopr/tamagui-expo) - An Expo template with Tamagui (1 day ago)
-- [ivopr/nlw-spacetime](https://github.com/ivopr/nlw-spacetime) -  (1 day ago)
-- [ivopr/visualdynamics2](https://github.com/ivopr/visualdynamics2) -  (2 days ago)
+- [ivopr/visualdynamics2](https://github.com/ivopr/visualdynamics2) -  (1 day ago)
 - [ivopr/dotfiles](https://github.com/ivopr/dotfiles) -  (5 days ago)
 
 #### 📫 How to reach me
