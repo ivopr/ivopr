@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ivopr/dotfiles](https://github.com/ivopr/dotfiles) -  (2 days ago)
-- [LABIOQUIM/visualdynamics](https://github.com/LABIOQUIM/visualdynamics) - Web Platform made with Python for automatic GROMACS simulations (5 days ago)
+- [ivopr/dotfiles](https://github.com/ivopr/dotfiles) -  (3 days ago)
+- [LABIOQUIM/visualdynamics](https://github.com/LABIOQUIM/visualdynamics) - Web Platform made with Python for automatic GROMACS simulations (6 days ago)
 - [ivopr/nlw-spacetime](https://github.com/ivopr/nlw-spacetime) -  (1 week ago)
 - [ivopr/tamagui-expo](https://github.com/ivopr/tamagui-expo) - An Expo template with Tamagui (1 week ago)
 - [ivopr/unir](https://github.com/ivopr/unir) -  (1 month ago)
