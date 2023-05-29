@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ivopr/dotfiles](https://github.com/ivopr/dotfiles) -  (4 days ago)
+- [ivopr/dotfiles](https://github.com/ivopr/dotfiles) - my dotfiles and Qtile rice (4 days ago)
 - [LABIOQUIM/visualdynamics](https://github.com/LABIOQUIM/visualdynamics) - Web Platform made with Python for automatic GROMACS simulations (1 week ago)
-- [ivopr/nlw-spacetime](https://github.com/ivopr/nlw-spacetime) -  (1 week ago)
+- [ivopr/nlw-spacetime](https://github.com/ivopr/nlw-spacetime) - aplicação desenvolvida durante a 12ª edição do NLW (1 week ago)
 - [ivopr/tamagui-expo](https://github.com/ivopr/tamagui-expo) - An Expo template with Tamagui (1 week ago)
-- [ivopr/unir](https://github.com/ivopr/unir) -  (1 month ago)
+- [ivopr/unir](https://github.com/ivopr/unir) - atividades, trabalhos, tudo que eu fiz nas matérias que cursei (1 month ago)
 
 #### 📫 How to reach me
 
