@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [ivopr/timer-ignite-02](https://github.com/ivopr/timer-ignite-02) - Aplicação construída durante o segundo módulo do Ignite (today)
 - [ivopr/todo-ignite-01](https://github.com/ivopr/todo-ignite-01) -  (1 day ago)
 - [ivopr/dotfiles](https://github.com/ivopr/dotfiles) - my dotfiles and Qtile rice (1 week ago)
 - [LABIOQUIM/visualdynamics](https://github.com/LABIOQUIM/visualdynamics) - Web Platform made with Python for automatic GROMACS simulations (1 week ago)
 - [ivopr/nlw-spacetime](https://github.com/ivopr/nlw-spacetime) - aplicação desenvolvida durante a 12ª edição do NLW (1 week ago)
-- [ivopr/tamagui-expo](https://github.com/ivopr/tamagui-expo) - An Expo template with Tamagui (2 weeks ago)
 
 #### 📫 How to reach me
 
