@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [LABIOQUIM/visualdynamics](https://github.com/LABIOQUIM/visualdynamics) - Web Platform made with Python for automatic GROMACS simulations (today)
 - [ivopr/ignite-coffee-02](https://github.com/ivopr/ignite-coffee-02) -  (2 days ago)
-- [LABIOQUIM/visualdynamics](https://github.com/LABIOQUIM/visualdynamics) - Web Platform made with Python for automatic GROMACS simulations (4 days ago)
 - [ivopr/eslint-config](https://github.com/ivopr/eslint-config) - My personal opinionated ESLint config (5 days ago)
 - [ivopr/unir-conta-clara](https://github.com/ivopr/unir-conta-clara) - Aplicação desenvolvida para a 6ª semana da computação da Universidade Federal de Rondônia (1 week ago)
 - [ivopr/tamagui-expo](https://github.com/ivopr/tamagui-expo) - An Expo template with Tamagui (3 weeks ago)
