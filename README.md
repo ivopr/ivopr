@@ -6,10 +6,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ivopr/sakura](https://github.com/ivopr/sakura) - A Next.js tibia account manager (today)
-- [LABIOQUIM/visualdynamics](https://github.com/LABIOQUIM/visualdynamics) - Web Platform made with Python for automatic GROMACS simulations (1 day ago)
-- [ivopr/ignite-coffee-02](https://github.com/ivopr/ignite-coffee-02) -  (3 days ago)
-- [ivopr/eslint-config](https://github.com/ivopr/eslint-config) - My personal opinionated ESLint config (6 days ago)
+- [ivopr/sakura](https://github.com/ivopr/sakura) - A Next.js tibia account manager (1 day ago)
+- [LABIOQUIM/visualdynamics](https://github.com/LABIOQUIM/visualdynamics) - Web Platform made with Python for automatic GROMACS simulations (2 days ago)
+- [ivopr/ignite-coffee-02](https://github.com/ivopr/ignite-coffee-02) -  (4 days ago)
+- [ivopr/eslint-config](https://github.com/ivopr/eslint-config) - My personal opinionated ESLint config (1 week ago)
 - [ivopr/unir-conta-clara](https://github.com/ivopr/unir-conta-clara) - Aplicação desenvolvida para a 6ª semana da computação da Universidade Federal de Rondônia (1 week ago)
 
 #### 📫 How to reach me
