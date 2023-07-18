@@ -6,10 +6,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LABIOQUIM/visualdynamics](https://github.com/LABIOQUIM/visualdynamics) - Web Platform made with Python for automatic GROMACS simulations (today)
-- [ZerefPk/e-orcamento](https://github.com/ZerefPk/e-orcamento) -  (today)
-- [ivopr/sakura](https://github.com/ivopr/sakura) - A Next.js tibia account manager (1 week ago)
-- [ivopr/ignite-coffee-02](https://github.com/ivopr/ignite-coffee-02) -  (1 week ago)
+- [ivopr/sakura](https://github.com/ivopr/sakura) - A Next.js tibia account manager (1 day ago)
+- [LABIOQUIM/visualdynamics](https://github.com/LABIOQUIM/visualdynamics) - Web Platform made with Python for automatic GROMACS simulations (1 day ago)
+- [ZerefPk/e-orcamento](https://github.com/ZerefPk/e-orcamento) -  (1 day ago)
+- [ivopr/ignite-coffee-02](https://github.com/ivopr/ignite-coffee-02) -  (2 weeks ago)
 - [ivopr/eslint-config](https://github.com/ivopr/eslint-config) - My personal opinionated ESLint config (2 weeks ago)
 
 #### 📫 How to reach me
