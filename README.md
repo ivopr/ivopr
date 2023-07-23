@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LABIOQUIM/visualdynamics](https://github.com/LABIOQUIM/visualdynamics) - Web Platform made with Python for automatic GROMACS simulations (4 days ago)
+- [LABIOQUIM/visualdynamics](https://github.com/LABIOQUIM/visualdynamics) - Web Platform made with Python and NextJS for automating GROMACS simulations (4 days ago)
 - [ivopr/sakura](https://github.com/ivopr/sakura) - A Next.js tibia account manager (6 days ago)
 - [ZerefPk/e-orcamento](https://github.com/ZerefPk/e-orcamento) -  (6 days ago)
 - [ivopr/ignite-coffee-02](https://github.com/ivopr/ignite-coffee-02) -  (2 weeks ago)
