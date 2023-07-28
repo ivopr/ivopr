@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [LABIOQUIM/visualdynamics](https://github.com/LABIOQUIM/visualdynamics) - Web Platform made with Python and NextJS for automating GROMACS simulations (today)
 - [ivopr/dotfiles](https://github.com/ivopr/dotfiles) - my dotfiles and Qtile rice (3 days ago)
-- [LABIOQUIM/visualdynamics](https://github.com/LABIOQUIM/visualdynamics) - Web Platform made with Python and NextJS for automating GROMACS simulations (4 days ago)
 - [ivopr/sakura](https://github.com/ivopr/sakura) - A Next.js tibia account manager (1 week ago)
 - [ZerefPk/e-orcamento](https://github.com/ZerefPk/e-orcamento) -  (1 week ago)
 - [ivopr/ignite-coffee-02](https://github.com/ivopr/ignite-coffee-02) -  (3 weeks ago)
