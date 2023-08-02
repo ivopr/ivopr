@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ivopr/traefik-grafana-portainer](https://github.com/ivopr/traefik-grafana-portainer) - Traefik setup with Prometheus, Grafana, Portainer and TLS (1 day ago)
-- [LABIOQUIM/visualdynamics](https://github.com/LABIOQUIM/visualdynamics) - Web Platform made with Python and NextJS for automating GROMACS simulations (4 days ago)
+- [ivopr/traefik-grafana-portainer](https://github.com/ivopr/traefik-grafana-portainer) - Traefik setup with Prometheus, Grafana, Portainer and TLS (2 days ago)
+- [LABIOQUIM/visualdynamics](https://github.com/LABIOQUIM/visualdynamics) - Web Platform made with Python and NextJS for automating GROMACS simulations (5 days ago)
 - [ivopr/dotfiles](https://github.com/ivopr/dotfiles) - my dotfiles and Qtile rice (1 week ago)
 - [ivopr/sakura](https://github.com/ivopr/sakura) - A Next.js tibia account manager (2 weeks ago)
 - [ZerefPk/e-orcamento](https://github.com/ZerefPk/e-orcamento) -  (2 weeks ago)
