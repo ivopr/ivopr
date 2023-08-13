@@ -6,10 +6,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ivopr/dotfiles](https://github.com/ivopr/dotfiles) - my dotfiles and Qtile rice (today)
-- [ivopr/tamagui-expo](https://github.com/ivopr/tamagui-expo) - An Expo template with Tamagui (4 days ago)
-- [ivopr/traefik-grafana-portainer](https://github.com/ivopr/traefik-grafana-portainer) - Traefik setup with Prometheus, Grafana, Portainer and TLS (4 days ago)
-- [ivopr/eslint-config](https://github.com/ivopr/eslint-config) - My personal opinionated ESLint config (4 days ago)
+- [ivopr/dotfiles](https://github.com/ivopr/dotfiles) - my dotfiles and Qtile rice (1 day ago)
+- [ivopr/tamagui-expo](https://github.com/ivopr/tamagui-expo) - An Expo template with Tamagui (5 days ago)
+- [ivopr/traefik-grafana-portainer](https://github.com/ivopr/traefik-grafana-portainer) - Traefik setup with Prometheus, Grafana, Portainer and TLS (5 days ago)
+- [ivopr/eslint-config](https://github.com/ivopr/eslint-config) - My personal opinionated ESLint config (5 days ago)
 - [LABIOQUIM/visualdynamics](https://github.com/LABIOQUIM/visualdynamics) - Web Platform made with Python and NextJS for automating GROMACS simulations (1 week ago)
 
 #### 📫 How to reach me
