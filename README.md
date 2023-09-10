@@ -6,10 +6,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ivopr/react-signature-test](https://github.com/ivopr/react-signature-test) -  (1 week ago)
+- [ivopr/tamagui-expo](https://github.com/ivopr/tamagui-expo) - An Expo template with Tamagui (1 day ago)
+- [ivopr/react-signature-test](https://github.com/ivopr/react-signature-test) -  (2 weeks ago)
 - [ivopr/dotfiles](https://github.com/ivopr/dotfiles) - my dotfiles and Qtile rice (4 weeks ago)
 - [ivopr/traefik-grafana-portainer](https://github.com/ivopr/traefik-grafana-portainer) - Traefik setup with Prometheus, Grafana, Portainer and TLS (1 month ago)
-- [ivopr/tamagui-expo](https://github.com/ivopr/tamagui-expo) - An Expo template with Tamagui (1 month ago)
 - [ivopr/eslint-config](https://github.com/ivopr/eslint-config) - My personal opinionated ESLint config (1 month ago)
 
 #### 📫 How to reach me
