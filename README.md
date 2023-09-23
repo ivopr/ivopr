@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [henriquesapa/SGM-Sistema-Gerenciador-de-Metas](https://github.com/henriquesapa/SGM-Sistema-Gerenciador-de-Metas) - Trabalho de engenharia de software (today)
-- [ivopr/dotfiles](https://github.com/ivopr/dotfiles) - my dotfiles and Qtile rice (4 days ago)
+- [henriquesapa/SGM-Sistema-Gerenciador-de-Metas](https://github.com/henriquesapa/SGM-Sistema-Gerenciador-de-Metas) - Trabalho de engenharia de software (1 day ago)
+- [ivopr/dotfiles](https://github.com/ivopr/dotfiles) - my dotfiles and Qtile rice (5 days ago)
 - [ivopr/tamagui-expo](https://github.com/ivopr/tamagui-expo) - An Expo template with Tamagui (1 week ago)
 - [ivopr/react-signature-test](https://github.com/ivopr/react-signature-test) -  (3 weeks ago)
 - [ivopr/eslint-config](https://github.com/ivopr/eslint-config) - My personal opinionated ESLint config (1 month ago)
