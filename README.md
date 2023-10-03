@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [henriquesapa/SGM-Sistema-Gerenciador-de-Metas](https://github.com/henriquesapa/SGM-Sistema-Gerenciador-de-Metas) - Trabalho de engenharia de software (1 day ago)
-- [ivopr/tcc-presentation](https://github.com/ivopr/tcc-presentation) -  (5 days ago)
+- [henriquesapa/SGM-Sistema-Gerenciador-de-Metas](https://github.com/henriquesapa/SGM-Sistema-Gerenciador-de-Metas) - Trabalho de engenharia de software (2 days ago)
+- [ivopr/tcc-presentation](https://github.com/ivopr/tcc-presentation) -  (6 days ago)
 - [ivopr/dotfiles](https://github.com/ivopr/dotfiles) - my dotfiles and Qtile rice (2 weeks ago)
 - [ivopr/tamagui-expo](https://github.com/ivopr/tamagui-expo) - An Expo template with Tamagui (3 weeks ago)
 - [ivopr/react-signature-test](https://github.com/ivopr/react-signature-test) -  (1 month ago)
