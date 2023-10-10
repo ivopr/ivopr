@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [ivopr/tcc-presentation](https://github.com/ivopr/tcc-presentation) -  (today)
 - [ivopr/aoo-presentation](https://github.com/ivopr/aoo-presentation) -  (5 days ago)
-- [ivopr/tcc-presentation](https://github.com/ivopr/tcc-presentation) -  (6 days ago)
 - [henriquesapa/SGM-Sistema-Gerenciador-de-Metas](https://github.com/henriquesapa/SGM-Sistema-Gerenciador-de-Metas) - Trabalho de engenharia de software (1 week ago)
 - [ivopr/dotfiles](https://github.com/ivopr/dotfiles) - my dotfiles and Qtile rice (3 weeks ago)
 - [ivopr/tamagui-expo](https://github.com/ivopr/tamagui-expo) - An Expo template with Tamagui (1 month ago)
