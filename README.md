@@ -9,7 +9,7 @@
 - [ivopr/tcc-presentation](https://github.com/ivopr/tcc-presentation) -  (1 week ago)
 - [ivopr/aoo-presentation](https://github.com/ivopr/aoo-presentation) -  (1 week ago)
 - [henriquesapa/SGM-Sistema-Gerenciador-de-Metas](https://github.com/henriquesapa/SGM-Sistema-Gerenciador-de-Metas) - Trabalho de engenharia de software (2 weeks ago)
-- [ivopr/dotfiles](https://github.com/ivopr/dotfiles) - my dotfiles and Qtile rice (4 weeks ago)
+- [ivopr/dotfiles](https://github.com/ivopr/dotfiles) - my dotfiles and Qtile rice (1 month ago)
 - [ivopr/tamagui-expo](https://github.com/ivopr/tamagui-expo) - An Expo template with Tamagui (1 month ago)
 
 #### 📫 How to reach me
