@@ -8,7 +8,7 @@
 
 - [alanwilter/acpype](https://github.com/alanwilter/acpype) - OFFICIAL: AnteChamber PYthon Parser interfacE (1 week ago)
 - [ivopr/tcc-presentation](https://github.com/ivopr/tcc-presentation) -  (3 weeks ago)
-- [ivopr/aoo-presentation](https://github.com/ivopr/aoo-presentation) -  (4 weeks ago)
+- [ivopr/aoo-presentation](https://github.com/ivopr/aoo-presentation) -  (1 month ago)
 - [henriquesapa/SGM-Sistema-Gerenciador-de-Metas](https://github.com/henriquesapa/SGM-Sistema-Gerenciador-de-Metas) - Trabalho de engenharia de software (1 month ago)
 - [ivopr/dotfiles](https://github.com/ivopr/dotfiles) - my dotfiles and Qtile rice (1 month ago)
 
