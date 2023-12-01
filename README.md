@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [LABIOQUIM/qsar](https://github.com/LABIOQUIM/qsar) -  (today)
 - [alanwilter/acpype](https://github.com/alanwilter/acpype) - OFFICIAL: AnteChamber PYthon Parser interfacE (1 month ago)
 - [ivopr/tcc-presentation](https://github.com/ivopr/tcc-presentation) -  (1 month ago)
 - [ivopr/aoo-presentation](https://github.com/ivopr/aoo-presentation) -  (1 month ago)
 - [henriquesapa/SGM-Sistema-Gerenciador-de-Metas](https://github.com/henriquesapa/SGM-Sistema-Gerenciador-de-Metas) - Trabalho de engenharia de software (2 months ago)
-- [ivopr/dotfiles](https://github.com/ivopr/dotfiles) - my dotfiles and Qtile rice (2 months ago)
 
 #### 📫 How to reach me
 
