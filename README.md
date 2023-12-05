@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LABIOQUIM/qsar](https://github.com/LABIOQUIM/qsar) -  (today)
-- [ivopr/eslint-config](https://github.com/ivopr/eslint-config) - My personal ESLint config (3 days ago)
+- [LABIOQUIM/qsar](https://github.com/LABIOQUIM/qsar) -  (1 day ago)
+- [ivopr/eslint-config](https://github.com/ivopr/eslint-config) - My personal ESLint config (4 days ago)
 - [alanwilter/acpype](https://github.com/alanwilter/acpype) - OFFICIAL: AnteChamber PYthon Parser interfacE (1 month ago)
 - [ivopr/tcc-presentation](https://github.com/ivopr/tcc-presentation) -  (1 month ago)
 - [ivopr/aoo-presentation](https://github.com/ivopr/aoo-presentation) -  (2 months ago)
