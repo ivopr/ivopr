@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LABIOQUIM/plasmoqsar](https://github.com/LABIOQUIM/plasmoqsar) -  (1 week ago)
+- [LABIOQUIM/plasmoqsar](https://github.com/LABIOQUIM/plasmoqsar) -  (today)
+- [LABIOQUIM/visualdynamics](https://github.com/LABIOQUIM/visualdynamics) - Web Platform made with Python and NextJS for automating GROMACS simulations (today)
 - [ivopr/eslint-config](https://github.com/ivopr/eslint-config) - My personal ESLint config (1 week ago)
 - [alanwilter/acpype](https://github.com/alanwilter/acpype) - OFFICIAL: AnteChamber PYthon Parser interfacE (1 month ago)
 - [ivopr/tcc-presentation](https://github.com/ivopr/tcc-presentation) -  (2 months ago)
-- [ivopr/aoo-presentation](https://github.com/ivopr/aoo-presentation) -  (2 months ago)
 
 #### 📫 How to reach me
 
