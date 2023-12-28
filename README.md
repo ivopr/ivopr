@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [ivopr/eslint-config](https://github.com/ivopr/eslint-config) - My personal ESLint config (today)
 - [LABIOQUIM/visualdynamics](https://github.com/LABIOQUIM/visualdynamics) - Web Platform made with Python and NextJS for automating GROMACS simulations (1 day ago)
 - [ivopr/dotfiles](https://github.com/ivopr/dotfiles) - my dotfiles and Qtile rice (2 days ago)
 - [LABIOQUIM/plasmoqsar](https://github.com/LABIOQUIM/plasmoqsar) -  (1 week ago)
 - [MuriloFuza/Simple-Mail](https://github.com/MuriloFuza/Simple-Mail) -  (2 weeks ago)
-- [ivopr/eslint-config](https://github.com/ivopr/eslint-config) - My personal ESLint config (3 weeks ago)
 
 #### 📫 How to reach me
 
