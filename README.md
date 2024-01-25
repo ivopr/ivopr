@@ -6,10 +6,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ivopr/dotfiles](https://github.com/ivopr/dotfiles) - my dotfiles and Qtile rice (1 day ago)
-- [LABIOQUIM/visualdynamics](https://github.com/LABIOQUIM/visualdynamics) - Web Platform made with Python and NextJS for automating GROMACS simulations (2 days ago)
+- [ivopr/dotfiles](https://github.com/ivopr/dotfiles) - my dotfiles and Qtile rice (2 days ago)
+- [LABIOQUIM/visualdynamics](https://github.com/LABIOQUIM/visualdynamics) - Web Platform made with Python and NextJS for automating GROMACS simulations (3 days ago)
 - [ivopr/tamagui-expo](https://github.com/ivopr/tamagui-expo) - An Expo template with Tamagui (3 weeks ago)
-- [ivopr/eslint-config](https://github.com/ivopr/eslint-config) - My personal ESLint config (3 weeks ago)
+- [ivopr/eslint-config](https://github.com/ivopr/eslint-config) - My personal ESLint config (4 weeks ago)
 - [LABIOQUIM/plasmoqsar](https://github.com/LABIOQUIM/plasmoqsar) -  (1 month ago)
 
 #### 📫 How to reach me
