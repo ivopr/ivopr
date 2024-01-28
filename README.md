@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ivopr/dotfiles](https://github.com/ivopr/dotfiles) - my dotfiles and Qtile rice (4 days ago)
-- [LABIOQUIM/visualdynamics](https://github.com/LABIOQUIM/visualdynamics) - Web Platform made with Python and NextJS for automating GROMACS simulations (5 days ago)
-- [ivopr/tamagui-expo](https://github.com/ivopr/tamagui-expo) - An Expo template with Tamagui (3 weeks ago)
+- [ivopr/dotfiles](https://github.com/ivopr/dotfiles) - my dotfiles and Qtile rice (5 days ago)
+- [LABIOQUIM/visualdynamics](https://github.com/LABIOQUIM/visualdynamics) - Web Platform made with Python and NextJS for automating GROMACS simulations (6 days ago)
+- [ivopr/tamagui-expo](https://github.com/ivopr/tamagui-expo) - An Expo template with Tamagui (4 weeks ago)
 - [ivopr/eslint-config](https://github.com/ivopr/eslint-config) - My personal ESLint config (1 month ago)
 - [LABIOQUIM/plasmoqsar](https://github.com/LABIOQUIM/plasmoqsar) -  (1 month ago)
 
