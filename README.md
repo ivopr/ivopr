@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LABIOQUIM/plasmoqsar](https://github.com/LABIOQUIM/plasmoqsar) -  (1 day ago)
-- [LABIOQUIM/plasmoia](https://github.com/LABIOQUIM/plasmoia) -  (1 day ago)
-- [ivopr/dotfiles](https://github.com/ivopr/dotfiles) - my dotfiles and Qtile rice (2 days ago)
+- [LABIOQUIM/plasmoqsar](https://github.com/LABIOQUIM/plasmoqsar) -  (2 days ago)
+- [LABIOQUIM/plasmoia](https://github.com/LABIOQUIM/plasmoia) -  (2 days ago)
+- [ivopr/dotfiles](https://github.com/ivopr/dotfiles) - my dotfiles and Qtile rice (3 days ago)
 - [LABIOQUIM/visualdynamics](https://github.com/LABIOQUIM/visualdynamics) - Web Platform made with Python and NextJS for automating GROMACS simulations (2 weeks ago)
 - [ivopr/tamagui-expo](https://github.com/ivopr/tamagui-expo) - An Expo template with Tamagui (1 month ago)
 
