@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LABIOQUIM/visualdynamics](https://github.com/LABIOQUIM/visualdynamics) - Web Platform made with Python and NextJS for automating GROMACS simulations (today)
+- [LABIOQUIM/visualdynamics](https://github.com/LABIOQUIM/visualdynamics) - Web Platform made with Python and NextJS for automating GROMACS simulations (1 day ago)
 - [ivopr/portfoliov3](https://github.com/ivopr/portfoliov3) - Infos about me and what I am doing (1 week ago)
 - [ivopr/tamagui-expo](https://github.com/ivopr/tamagui-expo) - An Expo template with Tamagui (3 weeks ago)
 - [LABIOQUIM/plasmoia](https://github.com/LABIOQUIM/plasmoia) -  (3 weeks ago)
