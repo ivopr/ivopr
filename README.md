@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ivopr/dotfiles](https://github.com/ivopr/dotfiles) - my dotfiles and Qtile rice (4 days ago)
+- [ivopr/dotfiles](https://github.com/ivopr/dotfiles) - my dotfiles and Qtile rice (5 days ago)
 - [LABIOQUIM/visualdynamics](https://github.com/LABIOQUIM/visualdynamics) - Web Platform made with Python and NextJS for automating GROMACS simulations (3 weeks ago)
 - [ivopr/portfoliov3](https://github.com/ivopr/portfoliov3) - Infos about me and what I am doing (1 month ago)
 - [ivopr/tamagui-expo](https://github.com/ivopr/tamagui-expo) - An Expo template with Tamagui (1 month ago)
