@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ivopr/soldrake-ui](https://github.com/ivopr/soldrake-ui) -  (5 days ago)
-- [ivopr/dotfiles](https://github.com/ivopr/dotfiles) - my dotfiles and Qtile rice (6 days ago)
+- [ivopr/soldrake-ui](https://github.com/ivopr/soldrake-ui) -  (6 days ago)
+- [ivopr/dotfiles](https://github.com/ivopr/dotfiles) - my dotfiles and Qtile rice (1 week ago)
 - [LABIOQUIM/visualdynamics](https://github.com/LABIOQUIM/visualdynamics) - Web Platform made with Python and NextJS for automating GROMACS simulations (2 months ago)
 - [ivopr/portfoliov3](https://github.com/ivopr/portfoliov3) - Infos about me and what I am doing (3 months ago)
 - [ivopr/tamagui-expo](https://github.com/ivopr/tamagui-expo) - An Expo template with Tamagui (3 months ago)
