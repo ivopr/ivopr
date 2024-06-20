@@ -8,7 +8,7 @@
 
 - [ivopr/dotfiles](https://github.com/ivopr/dotfiles) - my dotfiles and Qtile rice (3 weeks ago)
 - [LABIOQUIM/visualdynamics](https://github.com/LABIOQUIM/visualdynamics) - Web Platform made with Python and NextJS for automating GROMACS simulations (3 months ago)
-- [ivopr/portfoliov3](https://github.com/ivopr/portfoliov3) - Infos about me and what I am doing (3 months ago)
+- [ivopr/portfoliov3](https://github.com/ivopr/portfoliov3) - Infos about me and what I am doing (4 months ago)
 - [ivopr/tamagui-expo](https://github.com/ivopr/tamagui-expo) - An Expo template with Tamagui (4 months ago)
 - [LABIOQUIM/plasmoqsar](https://github.com/LABIOQUIM/plasmoqsar) -  (4 months ago)
 
